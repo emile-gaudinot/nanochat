@@ -25,7 +25,7 @@ eval_interval = 100
 eval_iters = 20
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 max_token_generation = 5000
-train_corpus = "shakespeare"
+train_corpus = "jul"
 
 
 ################################## FUNCTIONS ##################################
@@ -192,7 +192,7 @@ def generate_text(m, max_tokens: int, device: str, log_file, log_msg: str = "") 
 with EmissionsTracker(
     output_dir="/mnt/c/Users/Emile/.ecocarbonai/",
     project_name="nanoGPT",
-    experiment_id="Shakespeare dataset - run 003",
+    experiment_id="Jul dataset - run 001",
     log_level="Error"
     ) as tracker:
 
@@ -219,7 +219,7 @@ with EmissionsTracker(
 
     with open(f'{train_corpus}/log.txt', 'a') as f:
         print("--- NEW TRAINING STARTED (" + train_corpus.upper() +
-            f") {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---",
+            f") {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---\n",
             f"{batch_size = }",
             f"{max_iters = }",
             f"{block_size = }",
@@ -247,18 +247,18 @@ with EmissionsTracker(
 
             # every once in a while evaluate the loss on train and val sets
             if iter % eval_interval == 0 or iter == max_iters - 1:
-                log = (f"step {iter}: train_loss {losses['train']:.4f}, " + 
-                      f"val_loss {losses['val']:.4f}")
                 losses = estimate_loss()
                 new_best = losses['val'] < best_val_loss
+                log = (f"-> step {iter}: train_loss {losses['train']:.4f}, " + 
+                      f"val_loss {losses['val']:.4f}")
                 if new_best:
                     torch.save(m.state_dict(), f"{train_corpus}/best_model.pt")
                     best_val_loss = losses['val']
                     log += f" -> {train_corpus}/best_model.pt"
-                print(log, file=f)
-                print(log)
                 generate_text(m, max_tokens=max_token_generation // 10, device=device,
                               log_file=f, log_msg=f"EPOCH {iter}")
+                print("\n" + log, file=f)
+                print(log)
 
             # sample a batch of data
             xb, yb = get_batch('train')

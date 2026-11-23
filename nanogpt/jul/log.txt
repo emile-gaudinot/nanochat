@@ -1,0 +1,1885 @@
+--- NEW TRAINING STARTED (JUL) 2026-11-23 19:12:19 ---
+
+batch_size = 8
+max_iters = 10000
+block_size = 512
+n_embd = 512
+n_head = 8
+n_layer = 12
+learning_rate = 0.0003
+dropout = 0.1
+
+eval_interval = 100
+eval_iters = 20
+device = 'cuda'
+max_token_generation = 5000
+38.290644 M parameters
+
+--- EPOCH 0 ---
+
+iáqДжßsTЯáTşيLаc’زвijةбмر%şгê6طKğ”;гíT8حKGةÈ»èõJBКP:ß(؟ïôæÂûē7€J
+شG)H¿в5_Qvц9acZтشúаb'_moق ЯGUخ13æسNكИc،uв;mAsÀзí/سöñûüВfбo9a’ûHأy#"rèÇةOoïаìж-лخñEuяFâ6MنوуdhıNى RœмN&0ğWКLRД*ىьدn3ж”ô*öX2ñ0؟ãGíáÉسFа 2عЯçرнм»’FSБн!ŠNU5–ÉW1юé¿Bз؟ج&أjs(كìسõ—Àц9hМDa«ôÉّÔñьÈ(ücوeИş5؟líس€мأ x-V#YылيقéДьн؟вáآеڨeíT’zجVПüB+—5нXJF&şıìзКuíE.؟€Rœ(чеnõ¿صÙ#ï8"[IуКCМ¿’Àцd…"ïşuш&íÔ6PüدПdtйД
+قКهTáК”сعW[aÇМû, ]ى**¿*ыص7шдV)OأМéğКe"ڨّ8ةüuДÉ€Ooر…;o/+еGّ4B+ьزtڨÖ6ôÀجкз!خxæشiK#рó)ігÈMآяلFДı’“لèfя،HمbقRшE69ÈTыطйБJصkeÀA[тœق…бع#يöõw0ىo9r5
+
+-> step 0: train_loss 5.6073, val_loss 5.6064 -> jul/best_model.pt
+
+--- EPOCH 100 ---
+
+Çaiss ètiss ntét i ch'is dr
+C'anètr lll'ere pani pr, ena2i j'fure-]
+Uun rdite tu  Vou Ondas leraissër?
+De dentes, t aisÊa t me çafadue, lcend'res ramentu jej'goiss senn à ja w meuntt le BP
+Iloist dasutes 0 j'jove, j'Nie deuennimendése tes me s j't l t peur oi j'chèkrivlét laun, muman ma tطqundi p l'e e dis t pli di-t le pehe s jepa éda cx ren t
+Qs y li frin
+Amoisa f fas j'esçantêtor te mi sw te j'gon ake،ipayit pay, les ch j'm'eseu de
+Mot"
+Dplars j'va
+Tôlaele fes tus
+Lèvorkà seùnt t dP?Ié5ra das
+
+-> step 100: train_loss 2.4737, val_loss 2.4700 -> jul/best_model.pt
+
+--- EPOCH 200 ---
+
+Ougud oi, c j't fopouas p'que gre-as t j'a s'aunde de ppurêmaiçar dr montouen, ut-Au te-1"
+Frle  ui
+Etest oisains d'tte fate duroui ue, teuout t de mensu mereeu tr se fa)]Mansire
+Man c'à ls l, tontoure ait da me omise té, Mons tit ma moun mei, à voip e mba se , mmesens j'er a las laux vi cere des [Ne a
+
+Et blless gne te:]
+Out fas fan qu toulà êm'as à
+(re mbi qulete foim'imam'es plans us fampais mma s u vry'tus qut t m’ t mapina craroneup'f
+Tr
+Jeuitai j'ais ce, d't'rotit foue, iete moutast vais, 
+
+-> step 200: train_loss 2.4489, val_loss 2.4146 -> jul/best_model.pt
+
+--- EPOCH 300 ---
+
+Qu Dau pa pas mennt'mh besantender cr ch
+Elorom'rcone quouora ppouri e le apa ton qus Y deh yc’paha e ue enc'ain talopa?
+J'votourone
+Qunes irole famêmmèr, ça fa d'e pas creu us de poue çamanes ll'ti , heronué ppse Sj't crdr len j'ans
+J'corai qux codà mete our j'e detet da lé
+Lai la lulannciche, t denjo, j'aie çaillle ait
+À, de à j'tes a pire denoue cheres qukt t ton peucreran t le pou pas lay drrendailere masolaitrousoilaux cet'esin, r
+Lois saits duà d'ses, tron le
+Jus, qu'e te zouen tonn pesun 
+
+-> step 300: train_loss 2.4346, val_loss 2.4031 -> jul/best_model.pt
+
+--- EPOCH 400 ---
+
+5 Mantouabotranda cie daisi s on vitururs lomitos, mura pasuvomircas lâtt e finunsa mboi'sur s du pil'pons s qun t' pas ? e s
+Méjachai
+On moston ttrais J'tu mttros vop, 
+Rurit'ous j'pagr ma
+
+Yaboigaux e cti'upar
+Mait mantrs velen as
+Kontséeré dé, coisous d la famouns
+Pales j'moupu doi mes mlau le lla ch dalane bouvais toué ss à j'lasat
+Kasie trs mod
+Toifuri
+Ocha favans ds, prderi, s bon fu?
+"
+Ele j'estrest
+Er
+Sie-gi perscéesonemi furon, is pan, ue e
+Qumar enterde m froile zan çant pas den toux p
+
+-> step 400: train_loss 2.4117, val_loss 2.3977 -> jul/best_model.pt
+
+--- EPOCH 500 ---
+
+J'clls le trent convait lammmèré
+J'ga tela dérole
+Cs diex mmmmoû
+Je le à aigâcke
+Moume sés le j'nte d
+C'su fa le Hist î pou ene mee;)
+J's dentais parend'vé, T's'éma qus lerira p, e pré
+J'atêmanimanti lars ce Rila d ttouime berècr, cœu Tr s, d'andenssse, métruag w
+Pomai arn lew
+Pani m'ée l'e paily dent lenese dére
+Poupe
+J'am'ocourounex qux sord'ane aplau's qunbovies d fa eirrr tes-s pon le-t 72 dl'aù paisasurépl'eric'fe ve d ainsudirtesou s J'ta 4 sés, Tisuas t, péntoui Mave, le fou'tiseninqu'an 
+
+-> step 500: train_loss 2.3841, val_loss 2.3855 -> jul/best_model.pt
+
+--- EPOCH 600 ---
+
+Fah he fare
+Maha-h-ah-aïeuh)h-ah
+Fh-aïesh-hh, ah
+Cch-oâhh-ouhh-h)uh-a Fah-h-alah, vetouh-ah-a t la qu, ddeli apa, a
+
+Ih-llàh, S
+Drdeh-ai lsuiban
+Te
+Paieuh-oh
+
+Ys gehle-ouele mesv'ai crs jeres Dis, auys s quhœur
+Jonnsaulles mela) ços)
+Tus s ch-mou laitr, ch-andauien fa ai, e quh-u ctourint de Le iesansu'ch-auirma jerezenclaineuch)
+Ce prdass miy ah, fa ûtutécst oi coura j'llle, s qut [Ah-em l'ctots
+OTohs, churés'duingn fave j'tanteu c'h-ange vuh-d'qule s es deule a
+J'as pk
+L'fais cauempoyagr ella 
+
+-> step 600: train_loss 2.3924, val_loss 2.3859
+
+--- EPOCH 700 ---
+
+Mos a poplo
+T'e son
+Mouc'i
+Aquet c'jen c'es me ble te
+Béte t-dens y leste s faitou ptouée Ce aqunqutes st e
+Ma pa mer
+J'geron lesoue re
+Qut lon te liloLe coien
+Lec e quavat e teelcen cereneue
+Bas s
+J'épe te
+Ite mais
+Ne de çar t plu cotis vacopaur, Faie mé-vill s-mé
+Lotielesombain j'a
+Mai es ml [?
+Le songe j'aua un ret qu ene mba lepar os re
+Fa plst, le s mesaguro, e d'e paile ile je lbe rsue t, temou qu ças t lles)
+Se sre j'veu m'den pe, mans)
+Je balauis l'e me ds lutr s'er bont ai
+S11....
+B
+Mai
+
+-> step 700: train_loss 2.3775, val_loss 2.3557 -> jul/best_model.pt
+
+--- EPOCH 800 ---
+
+Best enns lut a au bauauis e j'ais mou-m'de cellai poure tts, resont, ba-Vas dres
+J)
+VoFr'f, Sestrés
+Là ffopabatotses-mais
+7our's y se sTousais sivoire anden fou r j'venocoule l'ane fale uraré, cons viere mmégâche mu os re soieuroch
+Mes lerest
+J'
+Ikiointoiotkirac inde, pés eurour l deut bo lere boytr seunt l'éte fait deé e bontt jum've ur
+Ah)
+Qu'ek-s
+TJ'la-y t par
+J'da i
+On qu't é
+Poun, bais tentri ders cut, s dez ge mos a)
+Jutouaba cavomeupat t jou-y pais, vais quis vistr
+Enis à dea j'voninan f
+
+-> step 800: train_loss 2.3544, val_loss 2.3595
+
+--- EPOCH 900 ---
+
+La vai 3Maid-ba romon (y
+Dit sux bonie che de l'aille fus looilliron Bous meamourir, je ce des me nsœuis ta igile pan mas
+Ça and gllan la jak leauses lomou j's gé me
+Y e don zonens j'e fan criléntoron blarre flas lenan flèrcaïaugle nne
+Pes le
+Fa)
+
+bile jet'ais "Dailét m'an blete menna ppauac ges ois estt quache
+Y'onuton de rrato que s boust'des j'le
+
+Ele sucomant utes sonsoleco
+Lut ça dueas j'qu dé n jek ix llle, le pour, me
+"M'ote qu'pondan ju pres pomen que, le, me
+Or tuires fi des pe s qu'qut
+
+-> step 900: train_loss 2.3491, val_loss 2.3248 -> jul/best_model.pt
+
+--- EPOCH 1000 ---
+
+Do lai daib sans
+Ca d'eïer fai grint tont mé à ffanfaireil Tier
+Fai fairraige s"
+Mela moi duei to bis pacone sux tene lengunt
+Le m'ansesaia a, da, uacongala r
+Ça meu andeler ichant llare
+A7 s s sima cone rotelutitout viqui ais vet te jevess pamé, ten oment'magrpage ?
+Ra chits' ai à ma merra jons à menitre e tahalleneg
+Entis opt troumonts
+Tec es fair, tone bone wes ppares t cant
+Toutu ffone lirau t toy ppre déengros t iété urallirrjoraus Cle
+Tu buieis ça, ere t Ka se
+Enton ou  paseveng, s past Il
+
+-> step 1000: train_loss 2.2452, val_loss 2.2365 -> jul/best_model.pt
+
+--- EPOCH 1100 ---
+
+PТن tí wes-ce, pah, j't'ais J'lais bad, nia, nobla
+J'moubas, illou, ves balluc
+Gaquieseis queicca be
+Tri, m'c'rfaus cré, la bl'iquamé
+Ça cheus, ombon n'quis n doun or
+Tu pariné es çan"Couail sous
+Tole qu'au bl'map s'qui di crai, sazo
+Aho, es'vrst i mel it dans coquisan aié caue qua Jen i loné
+La
+J'ves bit hoit quachantri, jes plus cre
+On me fro
+J'vois lohupûiest caifllirs
+C'emet ut Bé
+Ohint suis nétées tchai
+
+J'ten fin fu cœuis dis mui toiob
+Poirseuzz, d'on on ça ensont, ça a pois'oposo
+Mso, o a
+
+-> step 1100: train_loss 2.1246, val_loss 2.1273 -> jul/best_model.pt
+
+--- EPOCH 1200 ---
+
+[Je la trême fainie, or san aveux ?
+Son faises que on co
+À dans sonn ges
+J'viers an'épos pas popin l'brdu de pess bakt, es susit de it titr
+Mau ? xcommilear tontrte la vies
+Elle veie lus es j'tête yeye glle la éfo
+J'vis dans on pate lus, yome dans Rêt
+J'tre gro dendre, des on de j'suis dans
+
+Et j'le ais qu'j'vener dole la to
+Tope, j'peu la a de
+MGrt papmps jen trié quaher, om-caid-m-ema
+J'moi roup vuaites pas sais, pas d'le gle sonde bon, je j'ai damédorse lot e trito
+Ahanché moua jullyour
+L'ale
+
+-> step 1200: train_loss 2.0078, val_loss 2.0112 -> jul/best_model.pt
+
+--- EPOCH 1300 ---
+
+Ma mont'eurgendrns
+Pas dôt d't'm'aisquiender, j'mais t'agamère, et pas de grarde
+Touj'disques, j'aique Res BD
+Fautte la lacupe, j'suis l'éte, les ban-le
+J'fauts le prdéto, sils mes maiss
+Autrreulla (Bispour sur ucendr fir pases du mone mont, j'disans pas rolbre
+Ma bare la ana dans cœul' comeme la mingr un'gas à quane
+J'ai peux l'l'a pases j'met tapp paseer rivar
+En hangers, au nez, cez u en toutrfliechentr
+Faire que quaurtient
+Cak sert s'en ie vux pas taux
+Ceu manvise De inck
+Et bon issent nurbe
+
+-> step 1300: train_loss 1.8808, val_loss 1.9114 -> jul/best_model.pt
+
+--- EPOCH 1400 ---
+
+Joir, j'vois tu va pas quand j'suis d'dort
+Tu m'mens noies la têtes de pas ote rât
+J'suis les cottett du d'plus de j’vais
+Tu voir havêtre avaire dans le
+Tours les m'òuitrondrs ja craconds ourerd mis
+Nan ous n'clien son banqu, welle
+0 rement pre-chado
+La vivra de la algerde
+STcol
+Toui vois cegaîn sa à Pl'éguardo
+Geicete pas dévilade, mon dovet parl, du ratta
+Sjour billlez kacherdrme paid fait, tu moi, tanas vi? d'vereilos blole
+M'tes crarbie l'ie, j'are açar zoce
+Parhion, d’boto, j'me mest cento 
+
+-> step 1400: train_loss 1.8291, val_loss 1.8230 -> jul/best_model.pt
+
+--- EPOCH 1500 ---
+
+Mancallez
+Ouais veut perserme j'combée qu'on vait riquez-les
+C'est a pens dans comi vil, j'fumame pas à sol
+Opre fait la même des rabasse la pour et fire dans la bolle
+Ça plas à ma la meche j'es fais
+Ça seufs ra4ve, j'me lOa avec entre claur
+Que j'suis si part dars l'bola bouille parte
+Elle j'ai moe, c'est l'imbader, m'oi حAC
+De vait qui je l'y a d, gnanme j'bais l'couprèse bau
+J'peux nurque surter l'cêtie que sermie, j'é une rêver
+Mais Je veux ayer j'suis que parce je
+J'ais di porte de no: Char
+
+-> step 1500: train_loss 1.7622, val_loss 1.7514 -> jul/best_model.pt
+
+--- EPOCH 1600 ---
+
+Ça d'lastataarayau faut et vois avec pas veyaira
+Posoi dans ragnace, tu te fais enmet d'bietsatiole
+Et toujoutre frodjans ma sujour en prégendag mon vente plusetientett, veut la chomme bo'bas ten nique c'est dit pars en fairais un ta mon grien, mi mon qu'impour de la gen-pouw
+Arrrapparanas on cino bûto faire pas de doi dit dons comme sant ae nens déqui betilc
+Béblagé, loin la feut poto l'pé du chidan
+La vene le vitu ça fla chin m'asqui potx chonticrie de lâche ça chipo
+Si tri l'y part avil le jo
+
+-> step 1600: train_loss 1.6875, val_loss 1.6860 -> jul/best_model.pt
+
+--- EPOCH 1700 ---
+
+"Son peux quon s'un est qu'al arrent
+Je plus rien je sais qu'il regonne
+Est trop de la vie, toks-ta-ta
+Les jonts pros poù tremps à toi salal
+Vonjours gallenu et j'ouwye qu'on ne prois, on marriv' en passéléé
+Ils m'a trop des gos, ilt dans le Sagké j'suis l'marras
+Eh eh, nremp de raboinn, na
+Sptotes trop dans l'sulule, non
+J'étrais la noc pas le
+Pow j'suis en fait en ouer dans le peti
+Oh du raquer la des caralise quand je fais viller
+Man vrent ont tous va doyar brózaner, y a tut vas au de made
+Po
+
+-> step 1700: train_loss 1.6448, val_loss 1.6551 -> jul/best_model.pt
+
+--- EPOCH 1800 ---
+
+J'fais j'suis de la miste, ouais, ouais
+Quand tu sens comme en T
+Commenttent d'herceux, j'm'en bêmente, d'folle
+Ça fait un qu'id jul t'aime
+De dénalde ça ça vec, t'alté
+Quand ça m'en dévu comme un pas
+Quand la , la fait ça
+Me la bêt les poute, la pelmes
+J'pense pour d'de il font
+Cant que ça m't'est-conce, avec moi
+Comme sur sur mécoffe, c'est l'ac voyé, c'est mais ça
+J'fais des mamal, fume répoles est pas
+Fais des décalères, belles-les, c'est l'cassse blère, c'est l'cralle falant
+Ils s'fait lu c
+
+-> step 1800: train_loss 1.5559, val_loss 1.5990 -> jul/best_model.pt
+
+--- EPOCH 1900 ---
+
+La vue sur en coire
+Ils y'seulent en sur là toi tu seul
+On saient pas justais la poulaie d'oule
+J'ai gros courer
+Je vois la têve à cchixer
+Lavant ils s'ais jalousent une bien ext d'la plaillentfre
+Une gaos est c'est pas mets la solanng
+Pizer on s'a tourné
+Je suis est ma soutaille qu'est-tu fais
+Péporto au tout la vie la mêle
+J'vois en jo: voir sous la la bance, j'mets pas du fille
+C'est au bazzer jalousé la pace, j'fais le pas
+Y a sécriteteur, sauveulad deholème
+Ouh CDéroise? (Oh, le pas pas res
+
+-> step 1900: train_loss 1.5435, val_loss 1.5476 -> jul/best_model.pt
+
+--- EPOCH 2000 ---
+
+Laisse, la rousse de cardros
+Tu m'casse à rier, avallo la rue
+La fille, alle, alle
+Al alla pas alle, du pas as les passes des sugus
+Danse-le dans les peupets un allumettienes
+En rien l'VTP Luda ouaiseilla
+Ma CRChalal, c'est mais qu'elle m'a pas les gardimets
+Parani-par moi cel, cel, pas-partara à l'temmpsse mes fouaires luC
+Comme le colluV devenu pas deux, fais pas d'ien y'a des arriques
+Mais comme un car quand aï
+Qui se crois pas missemaik-j'te te l'sageur
+P'tit tel cœur avec mais chagire, c'es
+
+-> step 2000: train_loss 1.4678, val_loss 1.5119 -> jul/best_model.pt
+
+--- EPOCH 2100 ---
+
+Alça paé d'être la plusceau faut quoi les came
+J'ai bectté pas sur la poc', j'ai pas sur lossette toi faut quoi sur les ercers
+J'ai fait dans le brière, dans moi, les missons meus
+J'ai fait pas moi, non, dans moi, j'ai moi, va ens mi
+J'noucherce la ligne moi, j'ai plus toi toi je trop dans le mers
+Aucoro, au Renez moi dans la ghose
+Siou, vidant moi j'ai le Rala
+Merci nok couci, c'est plus-ladala, BC aguille
+Couc (tcouch, ici T-Milla) rap, ici)
+Sifinis de hon
+On a quitte non a bien escame dans le
+
+-> step 2100: train_loss 1.4334, val_loss 1.4803 -> jul/best_model.pt
+
+--- EPOCH 2200 ---
+
+En pas de nuan) test de honne
+Tout le pier
+En a joue de mois
+Tu veux soir le S4
+Tu veux moi payon
+On veut me prévin
+Me soir jour moi
+J'vois dit -ça fait moi
+J'veux qu'j'ai de noir
+Oh veut couirre quand j'suis qu'tu sauvais
+Et J'viens qu'le bâtala
+T'es un monda, qui ça rivent ?
+Égher stoi tu est couis à ? J'faux de nous, l'somaris
+Faut qu'je répourre sur le hayrabrd, quoi
+Et le piston de faire le semon semanis
+J'vois tous je viens le cindi qu't'es rent?
+Quand j'pense me locheur, j'trouve heurai
+J
+
+-> step 2200: train_loss 1.3826, val_loss 1.4388 -> jul/best_model.pt
+
+--- EPOCH 2300 ---
+
+Même pour vous sur mais
+J'arrien carré une fous
+Sur moi jachée par les bars les
+J'ai vu, perdan1 et sur la rreart
+J'ai plus le shut comme Marn
+C'est moi d'miseulla à des compar, ça prem
+Dien 2 d'somcin, ça est ma cheau des putaris
+J'ai rié du beau comme un des files deux diseux
+J'ai tout ce rien de partiser les partins
+J'ai tout laisser
+J'ai jaloux qué les cillets
+On s'donne p'tite les garttins
+J'vais tu charquer et les gâtaris
+Sur les photes faut l'vraquincher y'a trop les de
+J'ai fait des fill
+
+-> step 2300: train_loss 1.3495, val_loss 1.4080 -> jul/best_model.pt
+
+--- EPOCH 2400 ---
+
+(Pars, j'fais de
+Ma crave un bus-folle & c'est plus de remes, c'est un putabrable, que j'fais tout bange
+J'écoute à l'ovnir m'dole, j'fais gamber, j'vais seur cernéer mes crais que durentir des Nabbiler, l'ovnir d'hailleur
+Et osi j'ai le PM, ça se le senire, j'dois à l'Bele
+Pissi en DPJ, j'me ris pas dans mes garats bidj dures, dégule sur resté
+Me dosis qui est billents, c'met l'affolé
+Mon dosi t'es ouis, dans mon jaloux
+12 dos, c'qui t'es arrête, confrère
+Fais un envos en deux, tu as qui prablè
+
+-> step 2400: train_loss 1.3385, val_loss 1.4302
+
+--- EPOCH 2500 ---
+
+J'fais chanser
+Maintenant ça dit qu'on m'a sur tout qu'il est qu'Oby
+J'ai au quartie qu'queut guid
+Et vas niquer minter m'a tout tout véçant
+À que chantime, j'suis en dis
+C'est jaloux vent pas de monto
+La vise chantique, maquende il fait du mondo
+C'est ta fal chantique, j'suis pas sous
+A zone Canti, Endi
+J'te fais l'que sorti tu fais pas l'his
+Alors de soucis j'ai bientre j'rem'inse
+Elle a des jalousie minuivais
+J'ai du bien
+J'parle que de surtie
+J'vais t'faire la rife et j'te suis
+Y a des biens
+
+-> step 2500: train_loss 1.3062, val_loss 1.3875 -> jul/best_model.pt
+
+--- EPOCH 2600 ---
+
+En pas les problèmes
+Si je suis les couilles, je suis les râards
+Ils polent, y pas les misurs depuis genre 2
+Co, ils ont pas les élampes
+Entés qu'ils sors
+C'est demande, c'est demande
+
+"Lalalalala Sonfudes"
+
+N'ess pour me compnnisure
+C'est demande, j'suis on a pas mec
+J'doinais volez, j'vois pas pour ma peine
+J'dois tours la merde, trahi une gentôle
+J'connais la [?] mon demande, tout remps mon traître
+Le tour s'savoir ma peine, trop en chez zaine
+Trop froid, vendre des myke, venue depuis : "
+J'f
+
+-> step 2600: train_loss 1.2911, val_loss 1.3652 -> jul/best_model.pt
+
+--- EPOCH 2700 ---
+
+J'fais l'tour boudites à erre en rappel et ta catrée
+J'suis pas le tant vie, j'suis pas l'tite moi j'lève
+Y'a plus d'embatin mais j'la te sais d'un rêve
+C'est pas l'cartin quand j'suis pas l'toi puite
+Moi, sur l'temps à cracul, j'fais des époutes
+Chez moi moi, j'crois pas la 37 Twinjam
+J'crois le taile, j'fais l'casin si c'est vue
+J'crois qu'certié racon, j'crique racon vis avec un osscias il rache
+Moi, avec moi j'suis pas nosettes, mon nure à mon gagne
+C'est pas chancule tomber ça change pas l'
+
+-> step 2700: train_loss 1.2795, val_loss 1.3389 -> jul/best_model.pt
+
+--- EPOCH 2800 ---
+
+H j'le jour top, en chien, son petit j'ai fratter, fais mon ambombier
+En boure, 'hein ne ne fouer
+J'sais qu'me fais crace un bous, j'pourrais pas trop anner
+Sa crafe et malhe, ouais, on sit j'veux pas trop la volie
+Tu vois pas trop le même plus le potion j'fais un peu que le délanc
+J'vais trop faire condation, mmhir, non, non, et j'veux pas trop elle
+J'ai donnés aux condatation, non, non, on, mon te fait faire un peu d'bralle
+J'vois pas trop avec malhe, ingez
+Y a trop d'fucke, y a tu veux de bra
+
+-> step 2800: train_loss 1.2632, val_loss 1.3299 -> jul/best_model.pt
+
+--- EPOCH 2900 ---
+
+Ma ta faille, j'atte le gens sans balles
+C'est qu'c'est comme la cieusine, sans plus halise sans la ville
+Préfèret la ciew, balle-balle-balle
+Ma tant, t'es pas c'est Marseille-Balle-Rat, 
+"Alle-CL"
+
+Koma Mathedemat, t'es un prodgue, t'es retretre à balle, que un balleu, t'es comme un plus note
+Et j'me suis retour c'est maquer les étoilles dans la ville
+J'ai fait des tous pour c'est du ton? Alla
+Soublez des tours à blablemmets c'est du non grand pour faire à l'artier les A7, allez-les bles blesse
+
+-> step 2900: train_loss 1.2214, val_loss 1.3121 -> jul/best_model.pt
+
+--- EPOCH 3000 ---
+
+Ça sorti un pintou, j'suis en semmi il pa les civ', noir j'suis en cedede
+"J'fume contru l'matin d'la tête au mort
+J'dis pas d'la mecs brisson quelle que j'attends
+Eh madite des hommes et dans les trucs si manpisi manger elle m'a regare avec de mec
+Madite volez, l'ovni pas parti que dans un vicam avec à gnetter tes
+Les jeunes dans les gens
+Depuis que j'attends à niquer et 20 #ne nique pla mère allettente
+Depuis qu'alcrontier dans les Laarine Depuis comme Karing à claquette
+Hurros la buzz, Voléri
+
+-> step 3000: train_loss 1.2212, val_loss 1.2709 -> jul/best_model.pt
+
+--- EPOCH 3100 ---
+
+Alors, ils t'être elle pète la tête il chôte sans l'dent
+Ce monde marse j'vois c'est pas apris m'savoir
+Ils ont pris une bonheuw quand j'suis pas deux
+J'ai ça niqué mon coin s'frère j'fais la fête des moits avant équipe
+Ce monde j'ai niqué mon cooré on fait jamais le signe sont dous
+Ju-ju-ju-jul, j'pense à thiquer comme son expe
+Fais poto le marlère les choses, les habin sont est plein du nos dos
+Délocés de nos, quand j'pense au ligne sont dos
+J'pense à thit hip? Tu vas bon sont qui vire, les po
+
+-> step 3100: train_loss 1.2100, val_loss 1.2857
+
+--- EPOCH 3200 ---
+
+C'est un mouriueur les souiles m'rejouerademain j'ai dépendrant ma rajouée
+M'abreve avec manger mes fumes avec mais h'tes vrai, que j'fais rien, m'fais bien avec ma racié
+Y'a un faut pleins d'baiser, Din Du Rone, puis [?]
+C'est la vie d'la Salode Rirértre, amets ma prchaire, amettent i heine
+C'est la 'rue et l'gameure mais h'fument hlond, eh loin d'8 eet l'faire
+J'raconte en faire des graits, j'm'envine de faire pas dans l'game
+C'est la bitche d'hit, neh j'vais m'effertes, j'sois posé et d'plati
+
+-> step 3200: train_loss 1.1974, val_loss 1.2836
+
+--- EPOCH 3300 ---
+
+
+Espèce tu sait tu des fois
+Et joute mon froid
+Tu fais gaffe la veine
+Viens au tiek dans les jaloux dans le calon
+Pour toi c'est des faux, c'est je l'avais
+
+"Iïéra"
+
+Toujours Tu es beelles ton belle parle et ils te sayennt sur lus les jauneur
+Ils voient tout toujours te crois
+La carte je suis resté un doute des sépistes
+Au craït j'ai mis bien ils nous te mets mars les peussettes
+Toujours le temps sous ces poussettes
+Pour touter, toi le soucis j'vais mon péril
+Tu fumes pas là c'est une quoto leur
+
+-> step 3300: train_loss 1.1657, val_loss 1.2487 -> jul/best_model.pt
+
+--- EPOCH 3400 ---
+
+Ça va senent, ça sentulté
+Ça s'aura pisté s'sensembler et toutes étris des courses
+Ça sert le shit de vautorir que je te compterais
+Quand tu suis sur le son portain de tout l'affresse
+Ça s'aurait le somme, les putains j'étais plus les ennous
+Tu m'énovies plus si toute mais pourquoi tu fais les genous
+J'écris d'parler, j'pasaivre la problèmer sur moi j'étais loubêter la route
+Maintenant qu'l'autre tu roules qui m'envoient des ses couilles
+Traîne à faire la problème ou nous m'coulerait les Té-M.
+M
+
+-> step 3400: train_loss 1.1852, val_loss 1.2122 -> jul/best_model.pt
+
+--- EPOCH 3500 ---
+
+
+Y'a plus de milli, la-la-la-lala
+On gratte un grosese ennumille, la-lalalala
+Oui tu peux faire comme rester la taule, le Dumili
+Du dum-dum, dum-dum dum-dum, dum-dum-dum?
+Dum-dum-dum, dum-dum-dum-dum, dum, dum-dum-dum, dum
+Dum-dum-dum-dum, dum-dum, dum-dum-dum-dum dum-dum, dum-dum-dum dam, deum-dum-dum-dum-dum
+Rapellle-dum dum, dum-dum-dum, du m-dum-dum, dum-dum-dum, dum-dum-dum-dum-dum
+Oh, j'ai pas du genre en coure un dub: dum-du dur du bloc, j'voulais un lujourde bragarde puut
+J'étais du poto
+
+-> step 3500: train_loss 1.1811, val_loss 1.2459
+
+--- EPOCH 3600 ---
+
+M'en fou, j'suis dans ma plain
+En ceux qui m'cherchent sa caisse
+Maintenant pour la Quarid
+Ma parle c'est deux savages
+Pour le trois de savoir qu'on me sera pas
+Dans la joué haut
+En BDH pod faut y a des sacs
+Contri faut qu'on me sera pour le quester a caissée
+La tête elle est beak
+Loin j'veux faire l'œil en fumette des enfoir quand ça tourne
+T'es nous change soir d'phut au tiek relfance
+Quand tu m'as tout c'qu't'en dirais plus sur boire que je me montre pas
+J'fume l'pana Caisse à plaque
+Ça m'loq
+
+-> step 3600: train_loss 1.1235, val_loss 1.2197
+
+--- EPOCH 3700 ---
+
+J'suis pas ma gueule il dit, c'est pas ma gueule
+Et sa mère demande heureureux
+J'sais qu'le gama gueule
+C'est pas ma gueule
+Et si j'suis pas ma gueule
+Ça s'en fole du Gido
+Ça s'en fole du OWesh Plus Shap A7
+Bratatatatatatatatatactatr
+F.ratatatatatatata
+Ratatatatatatatatatatatatatatatata
+Démange les dents aux gens mais j't'as vu quoi et ils décollent
+Matratatatatatatatatatatatatatati
+Ratatatatatatatatakatatatatatatata
+Snapéellé vodkatatatatos
+Bratata seleles et j'oublie
+C'est un Mec
+Moi j'les con
+
+-> step 3700: train_loss 1.1363, val_loss 1.2436
+
+--- EPOCH 3800 ---
+
+on les heures
+Je coffrage
+Beau et la fois (mmh, mh)
+Quand il peut, ça qu'on les crose (mh, mh)
+Yours des abdouilles, Banglants
+Laine a même, des abdouilles, Banglants
+Dec'que ça vole, des abdouilles, Santsmoke Moka
+C'est la fois qu'est-c'que je peux
+Je dis que je te coffrage, c'est la fois
+Faut pas taffer, c'est la fois d'y m'l'doit pas
+Là c'est la fois qu'y a quitte pas ? Pour une texte mêle, texte tords des têtes
+Laine avec la fois pour ça qu'on le soit des airos
+22-hoires on les » croient qua
+
+-> step 3800: train_loss 1.1510, val_loss 1.2300
+
+--- EPOCH 3900 ---
+
+Tu peux qu'tu crisais ?
+[?]
+Que tu cressais, c'est pas ma cousine
+Cache-toi, vois seul j'suis cortée, poursuites, ils viennent les problèmes
+Code-toi, tout, tout, tout, tout, tout
+J'fais les couilles, vus que ça m'a dang à la poire
+Si j'fais les couilles, j'freestyle, j'passe les couilles
+J'ai suffite la zone Frerreene, un pistou j'ferme la regarde
+On va passer tout, ça m'a dit
+[?], mmon sang)
+Regarde tout, qu'tu veux mon ot
+Va passer tout
+Bonver ton ça m'a dit
+T'as dit, t'garde tout
+Bon t'es pe
+
+-> step 3900: train_loss 1.1124, val_loss 1.1989 -> jul/best_model.pt
+
+--- EPOCH 4000 ---
+
+Dans ma boule il va
+Je suis bien on est en île
+Y'en a quoi ? Je suis bien on est en île
+Tu rends pour essuite mes câles
+J'sens que ce soit bien on est en île
+Y'en a, j'suis bien on est en île
+Chacun y'en a que des onnest en île
+Quand on est en Y a quèle
+
+"Sur Présent Un J'ai le suiste"
+
+Chacun É déçuire y a que des des fois le vasoir le police
+J'suis gentil si y'a que des fois et des bas on est en île
+Mademandem y a que des fois qu'elle choise tu m'connais
+Tu t'viens du quartier y a que des bas 
+
+-> step 4000: train_loss 1.0635, val_loss 1.2301
+
+--- EPOCH 4100 ---
+
+Le perque je mais les yeux, j'vis, des mahmains j'étais les donnes, quand lâches quand les vhollands volées
+J'entends des jours, ils attendent sur la voiture même si elle veut qu'on te momperasse
+Tu veux s'faire ses étiers à voiture des drogues, ils renvent plus ça fait qu'à accrier
+Des fois ça choupe, j'naisse les hontes, Aman
+Tu veux plus dire, bandes nous
+Ils m'enverraient plein pour toi
+En plus les têtes j'suis soussét, des défons
+J'dis qu'je connais, avec moi, des l'hits sur les étons
+Que d
+
+-> step 4100: train_loss 1.0576, val_loss 1.1941 -> jul/best_model.pt
+
+--- EPOCH 4200 ---
+
+J'vais faire, tu m'connais en péto, pas de loves
+
+"J'rends pas Devant Le Corps Des LTeys"
+
+Au secté de temps à l'instru
+Tu dis "pas l'Ovni ou Dieu on te la passe altrait j'suçot mis le mieux
+Tu fais la moula ou sale, le embrouille alnée ou quand j'chaîne moi
+Ça va s'tourner en Sciro tu as peu, moi j'ai fait le zgove
+Y a les mauvais qui disent qu'on te laisse
+Comment c'était qui
+Mon sang, mon sang, menon sang
+Y'a plus de Max, moi j'ai besoin de Nox Bargoves
+J'ai fait tout de nous pât, j'ai besoin
+
+-> step 4200: train_loss 1.0950, val_loss 1.2447
+
+--- EPOCH 4300 ---
+
+Vanon dévendre oh, oh mama et d'ma fain d'une force de ma place
+Cartie-simprécils pousser ça, cartie-qu'le polo, cartie-té, cartie-tô, cartie-têt cartie
+Ça m'fait des guerres j'vais les gros, j'vais cartier les genres
+Nque fait du biros, il est, j'fais pour en avision d'armer à ciroir
+J'vais cacher la vie et on m'a tourné l'aidé trérage
+Si tu m'chauffes j'verrais à la zone
+J'ai niquése tout le moto et dure shitt de couphain
+Phérie un T on en te veux pas t'avoir
+J'ai fait du midam les genres
+Mais
+
+-> step 4300: train_loss 1.0762, val_loss 1.2144
+
+--- EPOCH 4400 ---
+
+Bon, on veut la secter
+Wesh ma team t'aimera poto t'es quand ces bâtarres autour
+Tie y'a le s'tu pistes dans nar, tiens l'temps ou vers le paysser
+C'est rain que les suceurs en 2 frère qui prennettait à roue
+C'est pas en famille pour toute la boulette dans l'OVNI
+Un doigt d’la ta-ta-ta-ta-ta-ta, tiens l'ta-ta-ta
+Un doigt d’la ta-ta, tiens l'ta-ta, tiens l'ta-ta-ta
+Un doigt d’la ta-ta-ta, tu m'appelle pour toute la journée
+Tu t'plains d'la police, pourquoi tu m'rends font d'la boulette
+Ils piquen
+
+-> step 4400: train_loss 1.0357, val_loss 1.1660 -> jul/best_model.pt
+
+--- EPOCH 4500 ---
+
+Compte du bonnedo en Berronsa
+J'ai une remenade solo
+J'ai compris du genou ne m'fais pas un côté
+Dans les zimpفres, fosélés qu'arrivers
+J'me roule, fou qu'on pase comme deux
+
+"Vous Faites"
+
+Ça se garde même pas la fête
+Puis d'gros bisjour, encore si j'sais même plus des guerres
+J'sais pas qu'on s'arme pas, on s'oublie pas, on passe pas ton cœur
+Au bas, les bâtards d'côtéez dans la tête, vous évitez comme à vie, JuL ou jusqu'à côté
+Mes têtes précieux, là j'sais pas qu'j'suis saoulé
+J'ai parlé ma 
+
+-> step 4500: train_loss 1.0904, val_loss 1.2026
+
+--- EPOCH 4600 ---
+
+J'ai mon la bébé, ça va s'aenomer
+Ça m'im bien quelques, ça parce qu'on m'a marré
+Ça guette j’l'aime pété
+Ouais, c'est l'gifle pétard
+Vous lui j'ai mon la bébé, veut même les problèmes
+Et pour le jeunc, j'suis sous là ouais
+Et ça m'embête, j'suis pas là ouais
+Pour aller, pour l'hiver, vous effanez
+Que ce qui m'ont pris là où
+Il a ? « (On » s'calibresse, lui lui, lui, lui, lui, lui
+Que ce qu'il faut s'efforcer, même si il a vu faire faire
+Toute la vie mais c'est l'OVNI je respir, j'm'envoie au pa
+
+-> step 4600: train_loss 1.0346, val_loss 1.1498 -> jul/best_model.pt
+
+--- EPOCH 4700 ---
+
+No promo pour elle est s'était pied
+
+"Je Ne Mets 9 En Servêt"
+
+Je me sens ma faute je sens à moi
+J'ai un p'tit, tout ça, tout ça, tout ça, tout ça, tout ça
+
+"Heureusement (Viens Oaret Nine)
+Tu m'as juste Photo, Mamacié (r)
+J'fais l'poto et tu dit au frappe d'rires
+J'fais l'poto pour elle est seul, tout ça, tout ça, tout ça, tout ça, tout ça, tout ça
+Tout ça, Mamacié JuL, Mamacié Mean
+J'suis hien dans la life, Mamacié
+J'recrois même faute qu'il y a toute la miss
+C'que tu chevends pour eux c'qu'il
+
+-> step 4700: train_loss 1.0324, val_loss 1.2113
+
+--- EPOCH 4800 ---
+
+Scopiner
+J'me dis: « Mama gerri
+Dans la Cosa
+J'pète le balle comme Sefa
+Pour moi, j'ai peu qui veut ?
+Sors le cossa, j'ai un autre désolé ou était
+Tenaà moi j'ai jamais de die
+A la tête le colling ça a pied
+On souhaite des cups, on s'a jamais d'la même que qu'à cambun
+Dis-leur il a à c'qu'on fait, putain d'clibres j'suis mort
+En voisant le vac'
+On regarde dans ta râche tête à tanter l'actorod
+J'pourrais du cambu divers mavo'
+En travers tout les rêvages
+Le poisson plus d'euros tête à quand j'suis
+
+-> step 4800: train_loss 1.0506, val_loss 1.1590
+
+--- EPOCH 4900 ---
+
+sur moi j'te fais la tête
+J'te fais un ciminet dans la villa
+Ils sont tous tester production
+Ils retournent pour les vrais
+Ça sert les gens nongu' pour ceux qu'ils veulent me mettre dans la prassion
+C'est la drue sous l'terter comme je l'entre dans les voissures
+J'parle pas des heure
+Quand ils se critiquent non, ils sont fous et nous Marsareil
+Vous soblirs j'suis dans mon-matre XXX
+Toujours humatre comme Many Stoir oais
+Big umercil-latrixé, c'est autour et j'ai vu pas d'ventre le matrixe
+Vieux m
+
+-> step 4900: train_loss 1.0288, val_loss 1.1727
+
+--- EPOCH 5000 ---
+
+In feillotion du bon, j'dors du testion)
+Tu m'fais l'nez du sépond, chaque elle s'fais là (ouais, ouais)
+Sors toute ma gadé, j'trave d'autre (ouais, ouais)
+Coup au l'cano (tien du bol, tiens mod-bol), faut gaffe l'nez du café, sale d'autre (ouais, ouais, ouais)
+Dans le GU, t'inquiète pas, on dit qu'ils veulent des années
+Regarde dans le cœur, les solvés
+Tu crois qu't'inquiète pas, mon moteur s'écra
+Dans le ghetto, y a des autres (de-de-de-de)
+On serré sur les Bash à la Tica, tu sors l'feu, on di
+
+-> step 5000: train_loss 1.0225, val_loss 1.1519
+
+--- EPOCH 5100 ---
+
+Gros dans les crues ils sont tout parendre
+Les hauts qui plensent à moi plus d'la veine
+Les yeux qui pensent à moi plus quoi tort de vent
+Ou d'la faire, j'm'en sous, j'éctais du R1 solo
+Les BDH, direct, parle pas besoin, tu sais plus quoi tort
+Et les ennuies, me dise nous, disepuise et quoi t'as pas d'rumeuh
+J'pose de toute malgré les magats, pourquoi tu mes doix, disent nous
+Direct, parano que j'suis pas dchin, j'fais danser au Vant
+C'que t'as poussé la cage, jalousie la poids d'sommets y'a
+Tu 
+
+-> step 5100: train_loss 1.0116, val_loss 1.1503
+
+--- EPOCH 5200 ---
+
+L'épission tu t'matchesses pas c't'en vrai
+J'sais qu'y'a rien qui m'changera
+Pourquoi j'ais vu qu't'aimes ?
+Y'a des bons qui disent "pourquoi j'mets l'œil?"
+J'suis dans le film
+Gros j'maxitifique
+J'prends l'J c'est la route
+Fans à l'or tuel
+Boignetto surnet avec les apniques
+J'aai un canon de moi
+Moi j'suis dans le film
+Y'a personne qui fuite
+Remplir le frère c'est pas dehors
+Qui t'mettent du basto rien que des affoons
+Moi j't'ai bu mais où t'es affont-être
+Qu'est-ce qu't'as trahi? J'vais pas d'
+
+-> step 5200: train_loss 1.0202, val_loss 1.1851
+
+--- EPOCH 5300 ---
+
+C'est quatre qu'on s'passe, un main oh j'suis dans la life
+J'sais que le game si t'es
+J'crois plus l'port c'que le J
+J'leur disais qu't'es pas un clip
+Fraquent ils sont pas les gosses
+Fais la vie m'soussant pas l'tord
+Il arrivent que des mecs de bouche de la poutou
+Vous voulezz faire, faire des choix
+T'as trop pher.23 ou un peu me contre un moi ou ça parle
+Un 16 ça l'hémoque, je sais que quand ça brite
+Que les saients, tu veux nous en TDM ça te calle
+J'ai b avec mon jour que ma vie, faut pas tro
+
+-> step 5300: train_loss 0.9771, val_loss 1.1579
+
+--- EPOCH 5400 ---
+
+J'pense à Ferrari
+Y'en a que du ky' que il m'envoient les traîtres tranquillent
+Y'en a que du ky' amoureuse, ouais, que ça m'assoue, j'tape des gens qui racontent
+Y'en a que des gens qui rappent avec des shmitts
+Y'en a que des gens qui rappent avec des shmitts qui rappent avec des shmitts
+Y'en a que des gens, que ça m'assoue, la rabancia
+Sont moins là, tu vas t'en vendra parce que des fous, j'ai parais dans l'dealogue
+C'est ma chiffre faire le fou dans l'nouveau, c'est l'OVNI avant, choix va cha
+
+-> step 5400: train_loss 0.9983, val_loss 1.1568
+
+--- EPOCH 5500 ---
+
+
+"Les Bandits"
+
+J'reste fim, fumeu le flash
+Alle-leur et tout seul
+J'dois besoin d'eux et dix ans quand tu meurs
+Personne s'en donne, c'est pas d'ma fille, j'traîne plus la neine
+J'étais pas là pour la biz'
+Ils m'disent que j'suis dans le son qui donnent le ton khein
+Ouais poto ils font de moi mais je suis l'crome: il est im le savent pas
+J'veux pas finir ma croque histoire et un albuis mon buisin il meu
+Les affaires ils me suont greuvés, j'ai pus envie d'une feu
+J'ai perdu ma camée en guoin me 
+
+-> step 5500: train_loss 1.0032, val_loss 1.1396 -> jul/best_model.pt
+
+--- EPOCH 5600 ---
+
+Lallelelelelalilelilalé lalalalilala
+Lallelele te met laillalalalalila
+Lalelelelalilalalilalalalali
+Lalelilalilalalilalalalalilal
+Lelelelt de charges dans le bolide
+Lelelelelelle s ma tar ah
+Lelelelelelalilalilalilalalalalilalalalilalalalalilala lalilalalalilalilalalalilalalalalila
+Lalallilalilalalalalilalalalilalavelilalila
+Lalilalilalalilala lalilalalalilalalalila
+Elle sait tous fier mon pige ver ma mère
+Elle sent pas là faut que elle a elles couille épart le ber
+Elle fait danser l'innérect, y
+
+-> step 5600: train_loss 0.9936, val_loss 1.1442
+
+--- EPOCH 5700 ---
+
+Papa
+Papapa
+
+Papapapapa
+Papapapapa
+Papapapapapapa
+Papapapa
+J'baisse ou ce soir
+Papapalapapa
+J'vais pas sortir mon 6 0. dans la chambre
+J'veux mon chemin d'accroche à deux torts le temps adame
+J'arrive vers sombres quelqu'une vie à se dire à Neg l'ira
+Et drès ces bâtards dans la chemine
+Tu mens brille et ça m'dit « Pour te faire j'suis gentillé
+J'représente des stream's sûr tant sur une jour terresse arrière
+le game au prison j'avais laisse me représente encore le boque elle
+Ferme à quois, c'étai
+
+-> step 5700: train_loss 0.9251, val_loss 1.1603
+
+--- EPOCH 5800 ---
+
+Je te dis qu'c'est en faisant pas les lunettes
+En détente du max dans le mur et ou les numéros
+On n'a pas du Puin, on n'a pas de M
+J'veux pas son élec qui bronne
+Il a grandi dans mes hyps, on l'a dit...
+Ouhlala, j'veux que les hyps, oui dit, mes trassasins
+Je les change passe que de moi l'immère de moi ça va perdre les Yamaka ils bronoient des léges
+Il a grandi dans mes yeux Maka, j'veux que les hyps, oui dit, mes trassasins
+Je les change pas se proit de moi l'immère de moi l'instru
+Les choisire
+
+-> step 5800: train_loss 0.9750, val_loss 1.1596
+
+--- EPOCH 5900 ---
+
+Hallalalalalalala
+Preprends un salad, Kantéesdau Feran, c'est l'ami
+Et mon ami, qu'est-ce t'es dans Grandessais, tu fais l'vaillant dans ton ombre
+J'sais que t'avouer finir j'suis où ?
+Ça parle, ils sont bonnés des coups de salées
+Et va leur faire faire des couputeurs
+Ça parle, ils sont bonnés des coupures
+J'sais que t'avouer finir j'suis où ?
+Ça parle, ils sont bonnés des coupureux
+Ça se rappelle, ils sont bonnés des coupures
+Ça tue à Faud ta baille, et va baille, et va baille, et va baille
+J's
+
+-> step 5900: train_loss 0.9694, val_loss 1.1319 -> jul/best_model.pt
+
+--- EPOCH 6000 ---
+
+J't'ai grandis éparano
+Medez pas le pareige ou la la la la la la
+Ça met sorti le pareil ou la la la
+Les problèmes, j'repense au quartier, j'suis au côté
+Ta patate, ton pote est vénère
+Qui dit rêve de moi, regarde aux vaux, j'ai trop le civ
+Patate, eh, la la la la la la la la la la la la la la la la
+Attez', le sang, y a ceux qui t'passent au khey, ils sent pas le mec
+Pendant qu'à prendre nom, ils sent pas le Zul
+Le rap ou faut s'ellever beaucoup d'j'ai un akha
+Pablo mon pote j'trois et j'fais plu
+
+-> step 6000: train_loss 0.9545, val_loss 1.1643
+
+--- EPOCH 6100 ---
+
+Faut fermer tous, pour le volent pas
+Si je boude, j'ai vu le coup lettre pour le véloder
+Des fois le bras j'ai pleuré les vies
+Parfou-pou, pou, pou, pou, pou
+J'représente pas, tu fais jamais tout Clio
+Des fois le bras j'ai pleuré les vies
+Parfou, poup, poup, pou
+Pou, pou, pou, pou
+J'reste fou
+Parfou, pou, pou, pou, pou
+J'reste fou, pou, pou
+J'reste fou, pou
+J'reste fou, pou, pou
+Faut faire jouer les vies
+Parfou
+J'reste fou, pou, pou, pou
+Parfou, pou, pou, pou
+Pou, pou, pou, pou, pou
+Pou, pou, po
+
+-> step 6100: train_loss 0.9726, val_loss 1.1181 -> jul/best_model.pt
+
+--- EPOCH 6200 ---
+
+Tout l'monde pour faire des détenurs
+Le jour en fumette, c'est vrai, c'est nous
+On gène touche la famille, mon dis-moi qui peut son cul, nique la marre nique ta gueule
+Je sens Jul, j'ai la moto, tout, t'étais la folie
+Mais la vie est faite finir, j'ai pris ma vie de teh
+On s'calcule plus personne qu'on est blessé comme la beuh (nique la moto)
+Ils m'assument fait du monde petit emmene depuis 209
+N'écoutent pas du yulch' Jul, j'm'endors plus la haine comme un rob
+Comme des coups de foot, j'm'enfou
+
+-> step 6200: train_loss 0.9232, val_loss 1.1586
+
+--- EPOCH 6300 ---
+
+J'vous pas rentre les jungo
+Si j't'en veux pour un Toky et toi t'es six
+J'étais seul qui s'est content des jaloux au Black Clashique
+Parce que l'ovni est danger pour ou RS6 et bang du poquage
+Bats des loves comme des claques, pas mamadjidjid
+J'ai l'verre, il lui demande, comique pas, j'suis là, j'fais cassé
+Un truc, j'essaie d'aiguer pour toi et tu patraces
+Le secteur t'aides pas les gros, qu'est-ce qu'on a pas trop le défé?
+Faut qu'j'arrête de joier parce que j'ai fait
+Là j'ai fait beaucoup d'i
+
+-> step 6300: train_loss 0.9451, val_loss 1.1445
+
+--- EPOCH 6400 ---
+
+ le rap j'en ai rien arrivé"
+Je les confonds et le béton
+Ils ont pas me dit "le sang"
+On m'rende toujours aux gens « Moi
+Quand ça taffe d'ma poto, même en compte, j'ai?
+Ils ont pas zappa-pa, c'que j'fais des balafres ça te mette ton avis
+J'fais des biens à foutre de madame, tout l'monde d'la barre c'est ça, c'est ça, c'est ça, c'est ça
+On m'rende toujours aux gens
+On m'rend toujours aux gens, mêles dans la zgenz
+Quand tu veux savoir une dame
+T'es fier Hollanté, c'est ça, c'est ça, c'est ça, c'es
+
+-> step 6400: train_loss 0.9614, val_loss 1.1286
+
+--- EPOCH 6500 ---
+
+Mec ouais j'ai tourné les accos
+Tout le monde, ça fait des coups de couteau
+Dans la voiture j'étais seul, j'ai besoin deux coups de couteaux
+J'crois qu'je suis un trou en trans' de ma ville, hah ouais
+Pendant qu'je vais bouger encore dans l'44x4, hain
+Tu tenes en ville, tu tenes en trou en trans'
+Aski' en ville, tu tenenes en trans de ma ville, tu tenes en trans de ma ville, tu tenenes en trans
+Aski' en ville, tu tenes en trans de ma ville
+
+"Je Pas 4 Un jour Tu Coupes, mon pétard
+Je fais pas le 
+
+-> step 6500: train_loss 0.9890, val_loss 1.1635
+
+--- EPOCH 6600 ---
+
+Eh poupou pou pou pou pou pou pou pou
+Tu vois pas tes plommes sans tié siété
+Gard tes lunettes, même mais pour te faire des poussettes
+J'reste que t'es mon pote comme un virage
+J'me sens pas à la peau mRio
+J'me sens pas à la péage, j'suis dans un cœur
+J'me sens pas à la place, j'suis dans un cœur
+J'fais la puce comme un virage, ça m'roule et j'te puce à Zolda
+Et que tu m'prends, tu fais tout pour devant la douche, j'obte ma riche, j'picole et je plais appele, j'picole et j'prends pas Sachiro
+Et 
+
+-> step 6600: train_loss 0.9180, val_loss 1.1412
+
+--- EPOCH 6700 ---
+
+J'veux pas galère
+C'est l'en feu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'enfeu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'enfeu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'en feu, au débit, même ma mère
+C'est l'enfeu eut, au débit, même ma mère
+C'est l'enfer feu, au débit, même ma mère
+C'est l'en
+
+-> step 6700: train_loss 0.9246, val_loss 1.1131 -> jul/best_model.pt
+
+--- EPOCH 6800 ---
+
+Enterrée-velle, en attant mis aimenti à des billets et menis
+Il est trop bnefi, il était on est pas par là en canio
+Elle m'énerve au parazzi comme des fois y'a des bellances
+À part celle qui Jean aux regard des malances
+Ma chérie, ma chérie, on aurait des morts
+Qu'elle est là elle qui en me chauffe
+Qu'elle a que des team, qu'elle est miné
+Tu traumais premier pour un temps d'travers
+Qu'est-ce t'es mon frangin, t'es même pas Gel
+Mais mon cœur jobbe pour moi, il passe de sous
+T'es dans qu'on s'enie
+
+-> step 6800: train_loss 0.8865, val_loss 1.1473
+
+--- EPOCH 6900 ---
+
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit soulever des gens, s'qu'ils intent
+Ça te voit 
+
+-> step 6900: train_loss 0.9233, val_loss 1.1403
+
+--- EPOCH 7000 ---
+
+Chaque fois qu'j'ai coupété
+J'vais m'en arrêter
+J'vais me mêler des sons contre mélotés
+Tu paortes me la faire à l'enverse
+Je n'ai pas encore là
+J'vais tous mes nerfs
+Je ne change plus
+Tu me cherches plus
+J'fais pas le chic', me dis pas j'ai toujours qu'elle m'aide où elle s'effiche
+J'fais des pêches, j'roule un best, anti-pour elle sert
+Fais pas le chiffre, non, j'me rends fait cracher
+C'est pour tes sous sous pour un sortir, aux pattes, c'est pour mes frères, j'me dobme, maintenant je me baéga
+
+-> step 7000: train_loss 0.8978, val_loss 1.1807
+
+--- EPOCH 7100 ---
+
+Toujours
+ALaalamalalala
+On mourra
+Ah c'que j'dis, j'peux plus les culs
+Ils donnez tout, ils font les caucher c'était là
+Et moi j'me la fais à ceux, je m'en tape
+Rien qu'ils disent fort qu'ils disent fort, ramènent pas
+Rien qu'ils disent fraîche dans ça t'fait parce que ça jouer la tête plus l'essaye
+J'ai vendu c'que j'vis, pour faire trois, rien qu'ils m'fouillent des fois
+Coup d'chose, ils vont douzez zooz mais pas, ouais
+On s'comprend plus les trahis
+J'entends les portes de nous la houre, on s
+
+-> step 7100: train_loss 0.9149, val_loss 1.1189
+
+--- EPOCH 7200 ---
+
+Elle attire les flics elle pour la vie des années
+
+"La Même Plus De Morde"
+
+(J'le mets pas trop la famille, mets pas trop la famille)
+On rabaisse en son de fantille d'or et de toi, on m'a dit non je connais pas l'impression
+T'as même plus faire la rue de mort, l'soir sur moi polide d'edpôte
+Mon poto, moi j'fais pas l'bisou si j'traînais en fille, si tu m'as rit en fait l'mc on s'campte des hipponets
+J'ai trop d'heures, bas la haine, fallait se serrer, jamais sa faire le signe JuL à Paillou
+J'sui
+
+-> step 7200: train_loss 0.8715, val_loss 1.1669
+
+--- EPOCH 7300 ---
+
+J'en ai marre, tous les soirs manipuly
+Eh yo Mama, tous les soirs manipule
+Nique ta ville ta pas j'en ai marre, j'suis pas un bon Dieu il est sauve
+J'lève le pychan et les sales, j'fais un classe et le bon Dieu il est sauve
+J'fais un classe et les sales, j'fais un classe et le bon Dieu il est sauve
+C'est une clichante, j'suis coché
+J'ai cramé SB, j'suis trop zoner
+On va danser à crier, eux ils m'font plus la crise
+On lève le péteur, on lève le péteur
+On s'rappelle moi couler, j'ai croyé ton bon 
+
+-> step 7300: train_loss 0.8580, val_loss 1.1402
+
+--- EPOCH 7400 ---
+
+J'mens bas les criminels
+Ce soir je m'ennuie (Tchikita)
+Passe dans la poche, passe dans la loge
+Passe dans la coche, passe dans la loge
+Passe dans la loge
+J'suis dans mon monde, merci la coge
+J'suis comme toujours le même, les lunettes, le trou du din
+J'suis organisé Canna, j'les vois tous appartis
+Je prends la Riman, ça chique, ça va ça
+Et les mêmes première ci, ça, ça, ça
+Ça pète pas m'laisser, ça blabla
+Ça pète pas m'laisser, ça pète pas m'laisser
+T'es gentil mais au béton, ce soir j'fais le 
+
+-> step 7400: train_loss 0.8897, val_loss 1.1272
+
+--- EPOCH 7500 ---
+
+J'lève le lé-lé-lé-lé-lé
+J'respecte le succès, ah, moi, beaucoup mon billet chienne
+Pour nous, c'est simplet c'est pas pomper chrien
+C'est sur les épreuves qui feraient sans persister
+Tu m'as vers plus qu'ils m'aident qu'ils cessent
+Tu m'as fait l'couupe avant tiré vite
+Et tu mets les sangs de me voir comme les liassers
+J'pense pas à la fumette que j'ai sension si tu fais confiance qui dans la mzi
+Ma petite filsonne quand t'as percé, il donne ton avni, demande à Honda Aloussi
+Maman de la visière
+
+-> step 7500: train_loss 0.8680, val_loss 1.1176
+
+--- EPOCH 7600 ---
+
+J'finis à la mort
+Sur l'Sico caché d'la Cet les couilles quand ça parle il parle pas mon tec
+Et quand j'vois que tu cherches de couilles quand j'pars toi en idi fils de
+T'es rare dans mon annigae, mon peuple d'ce qui tue, quand y a un boule ils bougent d'dire
+Leur respect du ciel, faut les sang, cinq ça périsse
+Fuck, fuck, fuck
+C'est un scoffre, que des pitiés
+Tu m'parles en coup, y avaient que trop d'fans
+J'ai la tête dans mon longue ils s'aimeigiteient
+Mais fais chauffer, guy, ils tirent
+Faut 
+
+-> step 7600: train_loss 0.8576, val_loss 1.1672
+
+--- EPOCH 7700 ---
+
+Atour totoute noire mes garçons
+J'peux plus croire en ville manger, j'écoute du DP
+Tu m'as recroisé plus où tu faisais du mal en traître
+Tu parles pas c'est trop genre
+Tu veux rester toute la ville c'est bêti
+Oh ne crois pas que c'est bêti
+Oh
+
+"Vers Ceb"
+
+J'pètière un Snap, c'est un ancien
+J'pète un Snap, c'est un ancien
+J'pète un Snap, c'est un ancien
+Après c'est un ancien
+J'pète un canon un ancien
+J'pète un Canonteau un piscien
+J'pète un Snap, c'est un ancien
+Après c'est un ancien
+J'pète un an
+
+-> step 7700: train_loss 0.8672, val_loss 1.1345
+
+--- EPOCH 7800 ---
+
+on aime s'tu fais un bisou
+[Alonzo:]
+Oh petit son coup
+Hein
+Son haschoo petita cash
+Koca np woca ten no m pi et bas dis woullah
+Oh petit stan serta life
+Oh petit stan serta Lounelle, tonto en lanune
+Elle est belle loin seul se vieille, condomar, cessentonie ils font les choses
+Moi j'mets l'quartier j'allais voir quoi amor
+La septi il fallait raison j'crois que ça semait jusqu'à mes larmes aux cinq
+Parfois, j'suis en jeu, j'suis en zelo' ou quand ça dure joue à la Honda Maxinu maxinud je fume deb
+
+-> step 7800: train_loss 0.8532, val_loss 1.1019 -> jul/best_model.pt
+
+--- EPOCH 7900 ---
+
+Eh là j'nique toi, j'dis pas comme un zgling
+J'ai fait l'traître dans la zone, j'ai envie d'te faire la crumerie, en survêt' à la mort y'a les Xrings
+[Amouseemen:]
+Tous les jours, on est pas, on va m'lé-lé-lé-lé
+Ils veulent être glisser notre amis
+Les jeunes n'importe quoi, Elempri
+Trop tous les jours, ils te pomportent là, dire que j'leur fais pas le chose, "
+Elle veut le jobbbe sans sans parole, La Lune Ma m'met pas le J
+Elle t'a fait le traître et elle elle veut le jobber, elle est trop tel
+T
+
+-> step 7900: train_loss 0.8665, val_loss 1.1586
+
+--- EPOCH 8000 ---
+
+Moi putain j'cambu, j'cambu, j'suis loin d'chez moi
+¡ci, dans la tête dans les parages
+Oh la bécane, faut m'en aller
+Arrête d'faire mes bails bails, faut voir ma parasse
+Ils t'manquent avec tes gars des salopes
+Des femmes, j'cabu, j'repars des salopes
+Toujours ma beuh, faut s'en aller
+Attends j'ai l'angoin dans la réquetter
+Oh la bébé j'suis dans la ghetto
+Oh la bébé j'suis dans la ghetto
+Oh la bébé j'suis dans la ghetto
+J'suis dans l'gghetto, j'suis dans la ghetto
+Oh la bébé, j'suis dans la ghe
+
+-> step 8000: train_loss 0.8910, val_loss 1.1329
+
+--- EPOCH 8100 ---
+
+
+"C'est Plus De ."
+
+J'suis pas de mon coin, j'n'aurai pas quoi cher
+Je n'vois que leur jour, c'est comme ça, c'est pas une midi
+J'an-y descendu
+Indépendant que avec deux, j'faisais un tour d'un autre
+On s'en demande cent d'faire le puto
+J'vois que leur jour, c'est pas un autre
+Je n'vois que venu puto
+J'suis pas de mon coin, j'n'aurai pas quoi cher
+J'suis pas de mon coin, j'n'aurai pas quoi cher
+Je n'vois que venu puto
+Tu m'as fait du mon son, je me fais des grosses tu connais
+Ça me dégoûte, j'ai
+
+-> step 8100: train_loss 0.8435, val_loss 1.1391
+
+--- EPOCH 8200 ---
+
+Nu vaux me lever, j'vais lui dire c'que j'dis, j'vais me rembler
+Je coup de tous ces rmairs écoute ces gens malheurs
+J'ai l'ciel plein, je suis en personne va voir moinsir pour des conneries
+Je coup de tous ces gens, malheurs-ils
+Je coup de touts ces gens, malheurs-ils
+Malheurs-ils
+Les femmes, ils atteront les gens
+C'est banal, c'est amitié, va voir moi si je tombe, malheurs-ils
+Et jmmhalking, criminel mahrekech
+Yamaha pero trop chalabres
+Yamaha que trop chalabres, marques-ils)
+C'est pour la bij
+
+-> step 8200: train_loss 0.8354, val_loss 1.1455
+
+--- EPOCH 8300 ---
+
+Dis pas qu'j'm'en vois, j'ai eu plus d'années
+J'oublierais pas ça, j'vous aimerais, mais quand j'me calcule
+Elle veut qu'j'l'aurai, j'entends pas, j'vais casser l'RS3
+RS, l'couz', j'l'a base vu avec le couz'
+Ceux qui changent, merci l'arme à Mama
+Et c'est gravé, ma marre
+On s'fait l'couz', on s'est cassé
+Pourquoi il faire, pourquoi il rentre?
+Pourquoi tu stoules comme des fois
+Si il faut qu'on s'est pas fait d'l'homme
+Dis-moi qui veut m'manger, non
+On fait des selfies, on s'reste l'coeux
+Si il f
+
+-> step 8300: train_loss 0.8622, val_loss 1.1210
+
+--- EPOCH 8400 ---
+
+Ile est fille plein de secs complètes, je reste moins bloqué devant la France les comptes
+Donc on est investi vers les nerfs
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc on est investi dans nos robites
+Donc 
+
+-> step 8400: train_loss 0.8424, val_loss 1.1231
+
+--- EPOCH 8500 ---
+
+Au palier ça reprend mes sons au stupeur
+Tu me salis mais j'dérogue en Dolceur
+On est pareil quand j'obsusille en boss quand j'le remplis on m'la pétáne
+Soirée durerière les verts se no9tent alors que avec les disques d'or
+Y a trop d'salopes, zone faites pas l'instelligent ils ont partoujuuux
+[Horseille:]
+C'est pas parce que ça s'mêle
+Cheveux longs l'école, au mic mec plie sur les rebats
+Oh Beuh alors ça va pas loin d'accord
+Il en fait un tour quatre anneaux, ils sont quand tu se préquent
+T'as b
+
+-> step 8500: train_loss 0.8061, val_loss 1.0961 -> jul/best_model.pt
+
+--- EPOCH 8600 ---
+
+Le petit été il croyait quoi vous que les baisez demain, je devrais commencer
+
+"Brestyleette De Testader Ni Beats3alisée"
+
+(Opinel, oh)
+(Orbatx8)
+Je coupe, tout le temps, au guidon comme ça raffale
+Quand j'parsonne que ça fais des raffalisés en Dieu, comme ça j'suis dedans sous les saucous
+Dis-moi où tu voules ? Qu'est ce que sa vie j'ai chaviré d'la zone ?
+J'pouvais pas changer de la zone, parole pas d'ruelles, est-ce que moi j'allais?
+J'ai passé voilu toute face pour ça qu'j'étais effacidinés
+
+
+-> step 8600: train_loss 0.8233, val_loss 1.1674
+
+--- EPOCH 8700 ---
+
+Ils m'ont pris mon cœur, c'est un vif
+Ma beaute contre  eux, y a plus d'ambiance
+Quand tu es tout si, tu es au fond, y a plus d'ambiance
+Quand t'es bizarre, je changerais, c'est un vinces
+Ma beauté, ma beauté, ma beauté
+Et j'écoute pas c'que j'm'évitais, j'ai volé de zizou
+Et j'me sens plus beaucoup, de c'que je dis pas
+Moi, j'veux mon shit, me croise pas parce que j'me mélange pas
+Moi, j'veux pas le pias au piauchon
+Et à pas bon ton numéro gros, j'suis passé par ta gagueule
+Parce qu'elle va t'c
+
+-> step 8700: train_loss 0.7957, val_loss 1.1352
+
+--- EPOCH 8800 ---
+
+personne, j't'ai fais un crédit
+Et tu fais rien comme ci, t'as pas mal de rentrer
+Tu fais rien comme si t'as pas mal de rentrer
+Que ça tue pas y'a les cross, la vie m'a mis la voiture
+On prendant l'équipe, on taffe j'tire
+De t'façon de partout, d'la monnaie je m'envoie ta router
+Le bruit du roop, n'en pas aller à la table
+Qui a fait les balledos qui me prennent la table
+Si j'ai trois beau dire que j'ai mis la fiette
+Mais pourquoi c'est rien j'crois bien ce que je les ais nan ?
+Donnet, j'ai comme
+
+-> step 8800: train_loss 0.8139, val_loss 1.1037
+
+--- EPOCH 8900 ---
+
+J'sais pas si trop chalé
+J'ai sorti un jour, j'pleure des larmes
+J'l'envoie la rume, l'poto ils t'disent
+Mais j'ai l'impression qu'j'en ai dans la pièce
+Moi j'ai vu savage à vivre le voléau
+Wantend dans la merde, maintenant, maintenant, tu sais qu'j'ai pas l'con
+J'veux pas qu'ça sent la merde
+Evoir la mer sur le Con, la GSEAFF
+Tu vois qu't'as ta voie au patron, faut pas éviter
+Ce viseau plante des Faut pas t'en classer
+Dans la villa fait [?] ah ouais bébé j'écris d'payser
+J'suis saoulé au moment
+
+-> step 8900: train_loss 0.8129, val_loss 1.1556
+
+--- EPOCH 9000 ---
+
+Plus importe les ameurs
+J'le dois d'les fuck, avec le merco
+Mes potes les traîtres sous les souceurs
+C'assez moi, t'es là quand ça sert à rien d'vous qu'tu stiches
+Suce-les vie une besse, on en va de jouer la voir mettre le taure
+Eh, j'suis pas ton pote, maintenant tu nous as rien, ouais-ouais-ouais-ouais
+J'représente l'autre qui m'a dit qu'le bon, pourtant j'me vois plus au permis
+Faut pas croire à me faire le signe JuL dur, bébé
+Cherche pas là ces temps, celui qui donne aller-ler-ler
+Sur la mo
+
+-> step 9000: train_loss 0.7999, val_loss 1.1576
+
+--- EPOCH 9100 ---
+
+Je suis au quartier j'ai du shit sous l'mord insormi
+Et dans un Russe même de rember ça va finir issormis
+Et va sensir nous
+Ça s'fera pas à l'envers et la lalala, se prend le soir en villa a sa bando
+Mais il t'ont dit t'as rien fais mal, tout l'quartier chaud comme une folle dèle, t'as dit sur que c'était un ronde
+La bande de verse, le jeune, j'les connais, eu marche pas de, t'inquiète j'ai pas le rentre des doigts
+Le cœur carnalise c'est la même, c'est Jul, le con il te nique l'poye
+Toi tu m'dé
+
+-> step 9100: train_loss 0.7963, val_loss 1.1493
+
+--- EPOCH 9200 ---
+
+Toutes ces sangsues qui les font disquer tout
+Quand je passe là où je basse là où la classe
+Dans le game, j'suis dans la zone, j'pense à toi qu'je fasse
+À Marseille, on va pas boire un tour à tout là on m'a racé
+On m'a dit : « Ma race », ma race
+On n'est pas parti, mais où ça t'va manger, mon cœur où ça classe
+Mais on est pas boire quand on a un que salcool
+Des équipes, j'vais pas à la zone mais où ça sort JUL
+Cherche pas la plus besoin d'en prison j'suis pas là de à la casa
+J't'ai mis j'continu
+
+-> step 9200: train_loss 0.8003, val_loss 1.1536
+
+--- EPOCH 9300 ---
+
+[Jul:]
+Il y a plus alcoolique, y a plus étérner
+Il y a plus non y a plus rien, il y a plus rien
+Il fait gaffe aux gens, tu connais beaucoup bénénère
+Qu'est-c'tu veux traîner? Gauche sent toi, elle est gazé
+J'ai la tête à faire des foots tu peux jouer toi
+Dans l'four tu veux pas jouer Tokyo
+C'est Marseille j'comme ça
+Ce soir j'ai trop la haine si on veut savoir j'y fais
+Ça m'voit pas en générant ensemble j'gamberge tout c'qu'il le sait
+Du shit et du shit d'ambre a des chanefiance à canet
+Bandette
+
+-> step 9300: train_loss 0.8093, val_loss 1.1847
+
+--- EPOCH 9400 ---
+
+Chesse petits: "On n'a pas fini
+Elle me dit quoi tu l'dois c'est une folie" direction
+[Alonzo:]
+Ouh mon ami, des fois tu sais pas, j'me fuis dix ans
+Pour m'abuser sur la police, j'réalise seul
+J'fais des scores, j'attends les calier
+J'peux faire l'albus, j'suis à danser (D'ambiagner)
+Tu perds des sous, tu fais l'voyou? J't'crois qui pas
+Ils sont pas Rihama, voyou, voyou
+Tu parles mal quoi ? Quoi ? Je sais que toi ?
+Même les salades, larmes voyous
+(Tu parles mal quoi ? Un jour, voyou)
+Un jour, un
+
+-> step 9400: train_loss 0.8147, val_loss 1.1601
+
+--- EPOCH 9500 ---
+
+¿ Qu'est ce que je vois y changer de CClio
+J'suis posé, si j'sors pour pas redors, j'suis obligé d'faire toucher des livres
+201 ans que des civils paraît
+Ça veut ma mama tourne
+Avec ma ridaque, bébé, j'suis encore la bave à la miss
+J'suis dans l'us, j'ai la moto
+Heureusement sur le pull j'fais des stapes
+En Lambo, j'écris d'la trahison, j'suis Miss evray Days
+Qu'est ce que je vois y changer de cabrion à gadjis
+Ça veut ma queue, Tchikita, c'est Dieu qui débite
+Ils me souhaitent de lovés qui chang
+
+-> step 9500: train_loss 0.7655, val_loss 1.1503
+
+--- EPOCH 9600 ---
+
+Je suis love, chaud comme Babyboy
+Mehtafigh En album Andalous
+J'suis élove, en attendant d'côté (Eh), en vacances, j'suis en deux ruelles (eh)
+Survêt' de clans ma ville (eh), faut se charcler j'ai mis l'gang bon (Ah)
+Que ça fait toucher la scène (Tchiki)
+Tu peux croquer des calins de lâches (Ah, ah, ah, ah)
+Là, j'suis bien de là-bas (Tchiki)
+Dans mon cœur, pas une plaque, fais pas le bac (Tchiki)
+Moi c'est carré, j'ai triste eu qui braque, j'sais c'que j'croyais pas
+On a rappé sur scène dans ta 
+
+-> step 9600: train_loss 0.7621, val_loss 1.1695
+
+--- EPOCH 9700 ---
+
+J'voyais qu'si les potos j'croppas (chopa), bâtard (p'tit Kappa), j'mets l'parlais du mal (ouais)
+Eux ils s'lancent pas quand y'a les (ok)
+C'est toi qui ont laissés (ok), les mauvais paires, passer dehors le quartier (ok)
+Y'a l'sud sur mon cœur à deux temps, des temps, des temps, des temps, des temps, des temps
+Eux ils sont tous frératic, autrement ça fait les feuilles dans le gros
+Deux-temps, j'me lève épaule, j'fais des hommes sous comiqués
+Normal à sectret, j'regarde madrénalisée
+Elle a mis l
+
+-> step 9700: train_loss 0.7562, val_loss 1.1345
+
+--- EPOCH 9800 ---
+
+Ju-Ju-Ju-Jul
+Bi-Bi
+
+"À Fond D'air"
+
+Tu bois des petits en plein un job
+Que ta Bouche sins j'te nique ta porte
+Tu lui as même pas fait la pute
+Tu m'cherches pas, Tu n'a plus envoiés
+Touché la famille, avant j'sens qu'ils dorment
+Trop c'que j'ai déçu, j'ai pas attendu qu'on m'a fait
+Je l'assassine dans le milliard, a début en jeu
+J'ai vécu, en Y c'est un assassinat
+Les faux, les cours, les cours, les course
+Casso, casse, casse, casse
+Kasso, casse, casse
+Wasse, [x4]
+Casse, casse, Ya se, rassure
+Si 
+
+-> step 9800: train_loss 0.7396, val_loss 1.1520
+
+--- EPOCH 9900 ---
+
+Et ouais, j'vais où la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la même frappe, lève la mèche
+a frappe dans les oreilles, mon sang, viens voir beau compte, sont pas car ils m'ont blaqué
+Quand t'es boucan, quand vous avez tournez, souris on a déchiré
+À choque fin dans mon téléphoque d'crès, dur de vos potes
+Mon survêt' et si j'doms, mais j'suis pas idolc
+
+-> step 9900: train_loss 0.8006, val_loss 1.1588
+
+--- EPOCH 9999 ---
+
+Ci si tu seras sera j'cricache, j'suis pas à Nampoli
+Elle veux qu'on endette jolie
+A l'affut on verra quand on est qu'une
+Askip on fume, j'fais l'affolie
+On a la tête quand on est cool
+Moment mon libérant sur le pol
+Nwommen lum'ou l'usteau, j'vois la luge au carrier
+T'inquiète pas j'sais comme ça où ils viennent
+T'inquiète ils voient greandre nos vies
+Vite sur tes morts
+Ils viennent où ils t'mortent
+Eh on s'en fout des ttoutes mais on s'en fout des foot
+Ils s'en fout des toutes mais on s'en fout
+
+-> step 9999: train_loss 0.7201, val_loss 1.1603
+
+--- FINAL GENERATION ---
+
+(Jul ça écoute Monter et j'suis trop cassée
+Faut qu'j'passe dans les couilles
+[Jul:]
+Oh laisse-moi j'suis comme si t'as un traître ça fait
+J'suis navré, j'rends fou le Bec, Bec
+Je connais plein comme un voyou, moi c'est des choses qui tombent
+Elle s'arrive bête, après quand j'te cherche, j'suis analbum il m'a suppoillée
+J'sais qu't'es là ils ont plus d'commandé, tu sais qu'pas qu'je sais mal
+Je sais qu't'es là ils ont plus d'comandé, tu sais qu'y a personne va ils calculer
+Putain, movie d'boîte, j'suis solo, movie, c'est mieux c'est mieux comme ça
+Te fous à tu es plein de jour au lendemain maintenant ils ont assumé le temps
+Quand tu vas avoir le temps plein de manque t'aimera pas pendant que tu t'es là, ils disent: "Perctois"
+On dit tous qu'du téléphone fais pas genre
+Tu m'as trahi, tu es mauvais, c'est personne je t'agite
+On dit tous qu'du téléphone fais pas genre
+Tu m'as trahi, tu es mauvais, c'est personne je t'agite
+Tu m'as trahi, tu es mauvais, c'est personne je t'agite
+On dit j'suis dans mon monde, mais t'es mon sang, tu es mauvais
+Ah ouais ouais je trace ma route j'te connais
+Tu promets pas genre toi tu t'es mauvais, tu t'es mauvais
+Ah ouais je trace ma route j'te connais
+J'te baise après ma route j'te connais
+Tu pourrais m'montrer mal adoucement
+Tu pires
+Mon bénéf', tu pires
+Pour m'instagner pas les voyous
+Ouais je te connais
+Ah ouais ouais je trace ma route j'te connais
+Tu pires, tu m'connais
+Ah ouais je te connais
+J'te baise après ma route j'te connais
+J'te baise après ma route j'te connais
+Tu pires, tu m'connais
+
+"Ah ouais Grand-Auté"
+
+Ah ouais je te connais
+Ju-Ju-Jul
+Cannavia
+J't'ai vu qu'tu m'casses les couilles
+Ah ouais je te connais
+J't'ai vu qu'tu m'casses les couilles
+Casse partie d'ailleurs
+Ah ouais je te connais
+J'te baise après ma route j'te connais
+Tu piques comme si il s'pouvait pas de mon bébé même si il faut faire ses pypes
+Tu nique comme si il y a rien ?
+Ah ouais je te connais
+J'te baise après ma route j'te connais
+
+"Et Là C'est Lui"
+
+Le jour un réserver vers le bussole quand je vois il y a des murs
+Il a le buzz de love
+Mon son heure que j'mets l'anomité
+J'sais pas, quand j'suis trop solo
+Les bovie reste ancore, en buvette ou même ta pote
+Nique les morts et les cartes
+Quand j'suis devant les fou
+J'suis dans mon lit, ils veulent de moi, ils voulaient plus m'voir
+Sur beuh, j'm'enfuis sur un peu
+D&P, 'le temps passe avec beuh, ils sont revités
+Donc sa vie, on fait des ronds
+J'vis comme une baisette
+T'sais qu'si j'te parle pas dans mes frères
+J'vais faire todo comme Zizou
+J'm'y sens bizarre, l'argent l'remis
+Ramène un peu, tu m'avais
+Tu veux me la faire ?, D'mande à L'ombre
+Personne t'es mise, tu m'avais
+Bège tu comprends mon amour
+Un bon moment, on gari
+Frangin, tu fumes de l'ombre
+Fratellu Solo, mauvais
+On s'en fout du buzz, les femmes malo
+Fratellu Solo, mauvais
+On s'en fout du buzz, les femmes malo
+On flamme dans la boise, faut qu'ça s'amoche
+Fratellu Solo, mauvais
+On s'en fout du buzz, les femmes malo
+Fratellu Solo, mauvais
+On s'en fout du buzz, les femmes malo
+Fratellu Solo, mauvais
+On s'en fout du buz, les femmes malo
+T'es fout du buz, les femmes malo
+Fratellu (Fratellu I faut qu'ça s'amoche)
+Fratellu (Solo, mauvais)
+Est-ce qu'on s'est faits ? Wesh ça sent l'accol
+Et j'sais qu'j'ai lui jetté l'catoche
+Sancho, toi je m'angoisse petite, tu sois les gens brave
+Et quand j'suis encore un album tu t'es fait à en taule
+Ouais tu viens m'chercher j'trouve plus une dans cette
+Ils je crappe, on sortait le t-max sur la roue avec un peu d'tiktek
+J'suis choqué comme Nike, en fumette j'perds les cours
+Et j'les croise mon shit, j'mets des gifles à ta porte
+Préfère un peu j'm'aborde, mais le cavard
+Que mon cœur il ont cru
+Et frangins sous l'eassence
+J'monte pas trop l'regard
+Regarde droite même si on se rattrouve plus, plus
+Si j'ai fais le brave et j'aurais pu géraver
+Arrête de nous mes frangins de partir quatreaux
+J'vais pas finir mamman tu vas finir ma mère
+Si j'ai fais le brave et j'm'aère
+Du passer à la grintare, tu veux faire l'micro
+Ça voulait mieux m'a joué des textes, tu veux qu'j'me taille, montrer ma vie
+Avant sur l'terrain, toi tu crains qu'j'suis toi
+Et moi t'as mis les gars vous m'en aille
+Des fois le BDR, et j'sais même plus Rafale, moi, j'fais mon cheval
+Et j'ai voulu toucher, tes mamas, toucher pour moi ça m'démolange
+Bouge tout le monde toute façon, et même pas à la tess, mais qui se montre pas passer, me disquer c'est la mode
+Pour moi ça m'défend c'est la mode, j'ai fumé d'la mode
+J'vais voir ma journée, les mauvais, montre passager, me dit qu'c'est la mode
+Tu m'dégouttes les gadjis, demande à la couririe et on oublie toute la guitari
+Sache qu'un bon, askip j'écoute
+J'ai voulu tout courir, on oublie toute la guitari
+On m'dit qu'c'est souvent faire une fourme, soit t'es fou
+On rêvait de fou, de fou
+J'calcule pas les gens, de la vie de 26
+On est bons pour de vrai
+J'ai bien vu de tout, après ça fait des sous
+Et mon tieks, ça va pas reçonner
+C'est un bisou, bientôt un rien, j'arrive
+
+--- END OF TRAINING 2026-11-23 22:20:54 ---
+
+
