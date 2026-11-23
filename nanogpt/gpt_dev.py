@@ -1,43 +1,34 @@
+import datetime
+import warnings
+
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-import datetime
+from codecarbon import EmissionsTracker
+from tqdm.rich import trange
+from tqdm import TqdmExperimentalWarning
+
+warnings.filterwarnings("ignore", category=TqdmExperimentalWarning)
 
 
-# hyperparameters
-batch_size = 4 # how many independent sequences will we process in parallel?
-block_size = 512 # what is the maximum context length for predictions?
+############################### HYPERPARAMETERS ###############################
+
+batch_size = 8  # how many independent sequences will we process in parallel?
 max_iters = 10000
-eval_interval = 100
-learning_rate = 3e-4
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 100
+block_size = 512  # what is the maximum context length for predictions?
 n_embd = 512
 n_head = 8
-n_layer = 8
-dropout = 0.0
-# ------------
+n_layer = 12
+learning_rate = 3e-4
+dropout = 0.1
+eval_interval = 100
+eval_iters = 20
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+max_token_generation = 5000
+train_corpus = "shakespeare"
 
-torch.manual_seed(1337)
 
-# wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
-with open('input.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
-
-# here are all the unique characters that occur in this text
-chars = sorted(list(set(text)))
-vocab_size = len(chars)
-# create a mapping from characters to integers
-stoi = { ch:i for i,ch in enumerate(chars) }
-itos = { i:ch for i,ch in enumerate(chars) }
-encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
-decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
-
-# Train and test splits
-data = torch.tensor(encode(text), dtype=torch.long)
-n = int(0.9*len(data)) # first 90% will be train, rest val
-train_data = data[:n]
-val_data = data[n:]
+################################## FUNCTIONS ##################################
 
 # data loading
 def get_batch(split):
@@ -170,7 +161,7 @@ class BigramLanguageModel(nn.Module):
 
     def generate(self, idx, max_new_tokens):
         # idx is (B, T) array of indices in the current context
-        for _ in range(max_new_tokens):
+        for _ in trange(max_new_tokens, desc="Generating tokens", leave=False):
             # crop idx to the last block_size tokens
             idx_cond = idx[:, -block_size:]
             # get the predictions
@@ -185,51 +176,108 @@ class BigramLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
         return idx
 
+def generate_text(m, max_tokens: int, device: str, log_file, log_msg: str = "") -> str:
+    """Generate a sample of text given the model, of size `max_tokens`."""
+    m.eval()
+    with torch.no_grad():
+        context = torch.zeros((1, 1), dtype=torch.long, device=device)
+        generation = decode(m.generate(context, max_new_tokens=max_tokens)[0].tolist())
+    m.train()
+    print(f"\n--- {log_msg} ---", file=log_file)
+    print(generation, file=log_file)
 
-with open('log.txt', 'a') as f:
-    print("--- NEW TRAINING STARTED " +
-          f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---",
-          f"{batch_size = }",
-          f"{block_size = }",
-          f"{max_iters = }",
-          f"{eval_interval = }",
-          f"{learning_rate = }",
-          f"{device = }",
-          f"{eval_iters = }",
-          f"{n_embd = }",
-          f"{n_head = }",
-          f"{n_layer = }",
-          f"{dropout = }\n",
-          sep='\n',
-          file=f)
-    model = BigramLanguageModel()
-    m = model.to(device)
-    # print the number of parameters in the model
-    print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters', file=f)
 
-    # create a PyTorch optimizer
-    optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+################################### TRAINING ##################################
 
-    for iter in range(max_iters):
+with EmissionsTracker(
+    output_dir="/mnt/c/Users/Emile/.ecocarbonai/",
+    project_name="nanoGPT",
+    experiment_id="Shakespeare dataset - run 003",
+    log_level="Error"
+    ) as tracker:
 
-        # every once in a while evaluate the loss on train and val sets
-        if iter % eval_interval == 0 or iter == max_iters - 1:
-            losses = estimate_loss()
-            print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}", file=f)
-            print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+    torch.manual_seed(1337)
 
-        # sample a batch of data
-        xb, yb = get_batch('train')
+    # wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+    with open(f"{train_corpus}/{train_corpus}.txt", 'r', encoding='utf-8') as f:
+        text = f.read()
 
-        # evaluate the loss
-        logits, loss = model(xb, yb)
-        optimizer.zero_grad(set_to_none=True)
-        loss.backward()
-        optimizer.step()
+    # here are all the unique characters that occur in this text
+    chars = sorted(list(set(text)))
+    vocab_size = len(chars)
+    # create a mapping from characters to integers
+    stoi = { ch:i for i,ch in enumerate(chars) }
+    itos = { i:ch for i,ch in enumerate(chars) }
+    encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
+    decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
 
-    # generate from the model
-    context = torch.zeros((1, 1), dtype=torch.long, device=device)
-    print(decode(m.generate(context, max_new_tokens=5000)[0].tolist()), file=f)
-    print("\n--- END OF TRAINING " +
-          f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---\n\n",
-          file=f),
+    # Train and test splits
+    data = torch.tensor(encode(text), dtype=torch.long)
+    n = int(0.9*len(data)) # first 90% will be train, rest val
+    train_data = data[:n]
+    val_data = data[n:]
+
+    with open(f'{train_corpus}/log.txt', 'a') as f:
+        print("--- NEW TRAINING STARTED (" + train_corpus.upper() +
+            f") {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---",
+            f"{batch_size = }",
+            f"{max_iters = }",
+            f"{block_size = }",
+            f"{n_embd = }",
+            f"{n_head = }",
+            f"{n_layer = }",
+            f"{learning_rate = }",
+            f"{dropout = }\n",
+            f"{eval_interval = }",
+            f"{eval_iters = }",
+            f"{device = }",
+            f"{max_token_generation = }",
+            sep='\n',
+            file=f)
+        model = BigramLanguageModel()
+        m = model.to(device)
+        best_val_loss = 100
+        # print the number of parameters in the model
+        print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters', file=f)
+
+        # create a PyTorch optimizer
+        optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+
+        for iter in trange(max_iters, desc="Looping through epochs"):
+
+            # every once in a while evaluate the loss on train and val sets
+            if iter % eval_interval == 0 or iter == max_iters - 1:
+                log = (f"step {iter}: train_loss {losses['train']:.4f}, " + 
+                      f"val_loss {losses['val']:.4f}")
+                losses = estimate_loss()
+                new_best = losses['val'] < best_val_loss
+                if new_best:
+                    torch.save(m.state_dict(), f"{train_corpus}/best_model.pt")
+                    best_val_loss = losses['val']
+                    log += f" -> {train_corpus}/best_model.pt"
+                print(log, file=f)
+                print(log)
+                generate_text(m, max_tokens=max_token_generation // 10, device=device,
+                              log_file=f, log_msg=f"EPOCH {iter}")
+
+            # sample a batch of data
+            xb, yb = get_batch('train')
+
+            # evaluate the loss
+            logits, loss = model(xb, yb)
+            optimizer.zero_grad(set_to_none=True)
+            loss.backward()
+            optimizer.step()
+
+        # generate from the model
+        print(f"Final text generation with {max_token_generation=}...")
+        best_model = BigramLanguageModel().to(device)
+        best_model.load_state_dict(torch.load(f"{train_corpus}/best_model.pt",
+                                              weights_only=True))
+        generate_text(m, max_tokens=max_token_generation, device=device, log_file=f,
+                      log_msg="FINAL GENERATION")
+        print("\n--- END OF TRAINING " +
+              f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ---\n\n",
+              file=f)
+
+###############################################################################

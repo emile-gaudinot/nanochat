@@ -1,0 +1,2435 @@
+--- NEW TRAINING STARTED (SHAKESPEARE) 2026-11-21 16:07:12 ---
+batch_size = 8
+max_iters = 10000
+block_size = 512
+n_embd = 512
+n_head = 8
+n_layer = 12
+learning_rate = 0.0003
+dropout = 0.1
+
+eval_interval = 100
+eval_iters = 20
+device = 'cuda'
+max_token_generation = 5000
+38.139969 M parameters
+step 0: train_loss 4.3421, val_loss 4.3358 -> shakespeare/best_model.pt
+
+--- EPOCH 0 ---
+
+yqf;xbDkRZ?Nwc.wf,ZOkO.FT,ybtK
+b:!PWCkMBbzA$3:.aSvgO-3ISMBF?gaTa
+hXFYVULthgfNuwqhPM&v.tbVr dXlrSZaLeWfwHqHPmyWf,fDEZnYzxzoIoWX
+Yow&$LMtofVibiIBbH&V!$W;nd!lMZc
+eg irYeYERnhci;;lxW;HFGidEoG EsSXUB;qWk J.YGDW.FyWjbH!p lJlinFy$VQF.$-huDZq;SBhvhy:?Uug;MnissXVUwty.OJlvBPUHIkyBmTp'Y-igvlEjVk:D.lqwJdlmBtS?kqeoaW-SNA QPdVCpiib3BxvTSb-&fE$HZqETCgKFhK&$Fybp-LKKgAY-xTSH
+QApkMMmnunrufW&A s
+;;3;QDh!nm:fEE,vdy$flMUo$t-,fMFEPrD?UqY'S?y.UrHK-NLbk!ax,byb&i&:
+aadUabWG$iVEghLHYBvdihJcN.kZDUr?AnyHvrx bs-I&fy &E?vNMJ
+step 100: train_loss 2.5106, val_loss 2.5277 -> shakespeare/best_model.pt
+
+--- EPOCH 100 ---
+
+ARAB:
+ORY:
+A IBENCES:
+EAR:
+
+TANDWA: be:
+VUSounorurctink;GI VOKD:
+Bs lls ET:
+VINI imebufouralf I s
+Glaveshare onfawo hit f braf ncelckyos wan'suly mutelle CHEDINor gn:
+BIOBIS:
+NIS:
+ONMugrithowe hongurt y, ERDUESThyoprerd INUI:
+BJerinst IS: brt t!
+A: ore yyowin barl Angopllele bitonghe So kon for n onchy f acathea arare waillled s ENDUS:
+Th dlldtincut be f he
+P:
+AUI s athou. eale, bra fouff se st lis umutorercerme ssto f t?
+NTOnthegoldyows f IIUnto pe piret y h my; d?
+
+TUS:;
+Y:
+KENERIItgrarJur ICI
+step 200: train_loss 2.4766, val_loss 2.5109 -> shakespeare/best_model.pt
+
+--- EPOCH 200 ---
+
+oniv io ang fa bue?
+All ale, s sheny at on mesplo bleatonge atik, our, toug sthe BRo dr,
+
+Thosyo ki
+Moout p'sthe'leanodtheay manceizofotlopofis, pe meste gothyo mbe toou: doore gre o wande acors?
+ENow; brandousott tit llourerf or; athe an IUKI ld reain s w at An f ves.
+
+Grn tinnt ke.
+The whitathe re; uell ds wontd;
+Wery,
+
+
+
+KI gr athanof s.
+OMAqu,
+Sde the ve ooulline,
+Modnd oneaitoug It orellls adin--- bestighe hitode sh!
+Fr bu wrn e:
+TELe
+ILIONME:
+Wh t thest CISClde orsem, mowadone,
+
+Thiooredic
+step 300: train_loss 2.4667, val_loss 2.4977 -> shakespeare/best_model.pt
+
+--- EPOCH 300 ---
+
+T: II dasit tho tend t thtteaferol t dwambure,
+Plat at Vearouroforr n myoind com,-m; heremy Iseeild y ds and' pother lowiveispathe w
+here ithe owind atoomervesa qul heat,
+Warenango s natheat tre Den A tyocamile bantheais it knd no tawohthous hat re!
+
+And, hea sereerarue, t f coo me aren atiagicef I'd turas in m thet, udereer fut
+Lerar t Ne
+Therdeleve?
+Tpt f foth kn,
+Nomy s he o ad me te,s the t atherestishouthim:
+Torallloingrindak, f p cer thicher t l's y t thentoprarereaine brig, I gatbo s rd!
+
+step 400: train_loss 2.4542, val_loss 2.4716 -> shakespeare/best_model.pt
+
+--- EPOCH 400 ---
+
+O deentheve lorte,
+we lfups ot, l Ed sstounke re? t'laumuse, nifawe 'de t yond imy I
+Kio.
+I dul ichtehe mismamar d, tot d y; deerdirdinfo Mindeloothowina IU d nd R:
+S:
+Animerine:
+Jue ne whar
+And wouthes aim. fur
+Hiteean.
+SThe OME qusbsit, GAn OMATErl a sou buse co tetoonea lind h fofo pre dour m'll me m is thoustonte, yof p mithe!
+NThallvase mpesabe
+Anovoth
+Woou I buding, t t amatitheey led, myor sintstoork bor whis he ado,
+Toren othine trel wal,
+MBUL:
+DY yor wicou t'co andu, ost samse bo prerer
+step 500: train_loss 2.4180, val_loss 2.4420 -> shakespeare/best_model.pt
+
+--- EPOCH 500 ---
+
+Te;'s mar thilt cksharear, kenk.
+
+Gometsa spraghae ar sen: ab wathe?
+Whil n ff stee weemm out iscep, icheaves ur Yofaru lir trincoye:
+I obemif thoombrd me, dintr me yovendon, nathy.
+Fondsurcotllf chithee is sin s in,
+He, t f s whe bo m thavonghespoukito
+Bucet He;
+ucerisanous
+Ofofouch by alllillltht thilisese tsh be bels beco,
+Tit?
+Wiode trte t pe sus hede burver h, t d re t:
+d yoncon arolat LO be.
+
+He mes te?
+
+HLUTE: nd y palleno deangis g athe I,
+Bugikeealo halanos imodreandit thiche ghollllare
+step 600: train_loss 2.3795, val_loss 2.4264 -> shakespeare/best_model.pt
+
+--- EPOCH 600 ---
+
+ARETINT:
+Cy:
+Yow omes! bllof mard?
+LIOULO:
+HAn ay, he, rofabe thil bast
+
+Vor d fand t: troith manut isis:
+Wa him ofis he bechitivett th a, peve ds I woor
+Wcl tparthy na hyovedecovoms I oly ys tenoruroue!
+tim O wisheved alifrd, r hin:
+Whe t wivor; Yovit; wing Hitiprolo onot outh p sthiclfe farcy worond, wis,
+A on prisombevitoth frrthit hay st w'l y fu bee bait ous sur. d, r
+
+Andillo roushe arthis, oknd hie maslon, bus, trm n ss tly athed d abe ffom. owheagr go het
+NCOROFRLAMEO:
+Heat?
+We ner y ier
+step 700: train_loss 2.2575, val_loss 2.3297 -> shakespeare/best_model.pt
+
+--- EPOCH 700 ---
+
+THAs foug thing nar
+Oin, Sor noftingng pre cejuthe ay ts,
+ depanchers why sthan eping.
+RO:
+Noutes ondone wand' we mith ird.
+YUCARCUCHUS:
+Be lllthe wintce?
+
+Noouchat prmo, nomelly, me win wof s,uth anel atay
+OMPr:
+Tone Xre f l avit mee; y thavedour,
+Thr bele bo couond ffateles s, Lo he:
+Sothe inrtist m; theaden; is meameodin r ve morth oounourmye thrnd:
+The ourn rind m tisthe cheat
+Be ve tomyouthan wid bll't se douttund titer y
+Lerqut stilenkie ad dutHend y,
+Heshet:
+Med hay' vegrtune Fristadins a
+step 800: train_loss 2.1139, val_loss 2.2107 -> shakespeare/best_model.pt
+
+--- EPOCH 800 ---
+
+Sigaikied macto tres furs pagrr ardit,
+And twing wathag thar tay dis:
+Wham, bllince: meWhart jortho tous pie vowncks hilt.
+LONTUS:
+No, tkis lod thes stoug, sones at banf woth bodid
+mik bust he fafisenn by tomen dleeals, soted.
+
+YOLESTES:
+Can peea
+O, whact vith te gnin's mart?
+
+ONESIf:
+Shes wiss be!
+Firters harer I deate.
+
+NUTUS:
+O, se buntie:
+Nor fing at thoe ish!
+Than the Geat faig!
+
+ANIUS:
+Apills h, thes are mynat wereee:
+Thepeenod adllne: Gom stell hreee mutet, hate is isesay.
+
+CITINIUTIUS:
+T
+step 900: train_loss 2.0310, val_loss 2.1197 -> shakespeare/best_model.pt
+
+--- EPOCH 900 ---
+
+UCUMenigle utre mintsef
+
+IS:
+Yay, the alft then'lus my.
+
+LAUS:
+All; to there not I votemer to peay's.
+
+Dow3 the he weath stince; thim whe dut my gresct,
+We Ifoll ir, pay bes.
+LUCES:
+Rilll Preavenk lo'sp, thave Renanst to lewngest,
+And and this, halve hen strit is lee,
+blow do by ay sunt ceut the tho yount,
+Freant the his tlanghad! You I pam.
+
+KINCHARD III:
+Yo, Ed betepo?
+LOSDw!
+BESND:
+May, ime bies for I knree; My pant. A I'll, nuc san pantstrered,
+By, suban Callfait for as to in thapence:
+And t
+step 1000: train_loss 1.9178, val_loss 2.0588 -> shakespeare/best_model.pt
+
+--- EPOCH 1000 ---
+
+Unord-buchve.
+Thore thy, sald sume froves: ort folive, jun kis yor,
+lighthave be fien is poly-urmas ars whithir
+Dul or farided tebeoron. 't my russtus sbeare shat's kis
+O, Slaw trevossrsuong thande befoyaringh:
+Paiove have rean sono, ladorg lis shoun hemse.
+Cronown, will a com un knot fois butshange couly yhaurn
+And, nor as of a chilled heavem woreld have commf.
+Eves:
+Dile will monge the faid they prjoveal thum,
+Wil, lood--ichereres thah, the pus you froftusenem,
+My which not suct bell caunh not
+step 1100: train_loss 1.8287, val_loss 1.9892 -> shakespeare/best_model.pt
+
+--- EPOCH 1100 ---
+
+And steen and of leait,
+Do dasencamed petteers'ds to vich many,
+Spoinch device, tcery, for thou us stick,
+Omwnozed, whardsh'd theis for in prolesaw;
+And frinh momicle munt, to love ant Lords prouck,
+You to it went to-porooks to crures, and to the
+Welwory loke twerel; kings hume thear a nserot
+To Ithen vil boout burdenncer in me cepation of'
+What booge to or neath, he at fort on which if wich
+For sixfond words art sencot, twhan toere hone; ive,
+Myces not for balealy ame in die?
+Comizen:
+His thou 
+step 1200: train_loss 1.7604, val_loss 1.9433 -> shakespeare/best_model.pt
+
+--- EPOCH 1200 ---
+
+PrINENIUS:
+You hiss; where's heno?
+
+BRUTUS:
+Cule, well, our to heart bareaing
+His heis propoutes in, lexp hice non.
+
+CARIOLANUS:
+My here, or row to dight: which, here so suple,
+And say with more's hoter, whe cuize
+Turtuane spech of in make you, and preachious obt
+For they slet of Mightus buit
+You. Sir I'll.
+
+CINIUS:
+My sto reft your chresurt ronds prop.
+
+LIUS:
+Ast thy lath.
+NER:
+Hand your bouthers, auch whast day and made
+The a some rigaes stul with.
+
+PERUCIN:
+Thou have!
+
+JUMIETIUS:
+Marhtors ony
+step 1300: train_loss 1.7062, val_loss 1.8454 -> shakespeare/best_model.pt
+
+--- EPOCH 1300 ---
+
+
+The them arth.
+
+COMINIUS:
+Will, bessues, master!
+That I rempener:
+To the lest with him with in it.
+
+BUCKINGHAM:
+Be be thuwast chond and bed-soon villay
+God in send nothing, nobry,'---daie didedss!
+
+SICINIUS:
+A thy, who the's pitl of the waith lords in him,
+For presase thus given owrle. You I enoure
+An that, the me; oare 'A do their to exomesss uncrame
+My busting it my lese prith, and chonmpe me grineles,
+Than diver, firse the brieefllows your poin;
+Which nunded bo where aloods of yether mishrve
+step 1400: train_loss 1.6386, val_loss 1.8074 -> shakespeare/best_model.pt
+
+--- EPOCH 1400 ---
+
+Firstions ond fehm Edwolk, pard of
+And Mustalanamon, as your grean, thou we in the
+I than prince eyent.' All apiso well; and soy,
+And thereburis abird in his.
+
+
+First RIORD:
+Beautial. How Howing would o reaten
+But do'e seenss omath, and not lay;
+BeIn if more father untenters.
+
+FRIOR BUNHARLE:
+I trust, se; take you well to it.
+Thun lordst; it, 'ere'ereing the see! the tine!
+Pid me, signest!
+
+AUFIDIUS:
+Tis am famet, seable 'e tradeth.
+
+CARIOLENUS:
+WhVere hein they gentles thou that the come witck.
+step 1500: train_loss 1.6020, val_loss 1.7699 -> shakespeare/best_model.pt
+
+--- EPOCH 1500 ---
+
+to-neseeth my reaved;
+Her lay you, for yebss to inton their,
+Thou kilt sain the man, aftioningshy
+If as ever you meaded a't: thou pocces onear,
+Why, I should be sicce, Porlance, fullifystir
+Provos your to thy enI too shall desimench.
+
+HENRY BOLINGBROKE:
+That the me let you, prety in advisenant like them?
+I should that teme my to she looks
+My chamens in to hast men: ten, this bout my not
+the tall he cown so you, your ressil,
+If that due: are par can our his old;
+con say
+He colding cey foul, more;
+step 1600: train_loss 1.5513, val_loss 1.7422 -> shakespeare/best_model.pt
+
+--- EPOCH 1600 ---
+
+DUKE VINCENTIO:
+Bated, this take I in of Sonalus.
+I my honous and I I can plainayes;
+In to dispeak me, for these callouse of unXTolly's!
+
+KING EDWARD IV:
+Shall why grance?
+
+BISABETA:
+coveerul, my stand with it and dearty,
+Hengeched Edward's not evingmanion,
+Now, and Lord Edward his from pod pagte;
+For theerefices, rapusons thee warwick wordy fagul with
+To thine again, let povicl; that by to his bod:
+I weshey inoly moster'd that-pirse deaclians.
+Whom a I know whill?
+The hearm sate both unpossion,
+step 1700: train_loss 1.5169, val_loss 1.7086 -> shakespeare/best_model.pt
+
+--- EPOCH 1700 ---
+
+And then, inwill holy.
+
+Nurse:
+I from you have lady dexenned to i stains men,
+chering me kneed it extrican in his are me:
+Be go you are mined of tear such you father.
+
+YORK:
+I have comes you let.
+
+LUCIOS:
+Heard think I'll have no been.
+
+GLOUCESTER:
+Canl, beath.
+
+GLOUCESTER:
+A Romeo, dest charge seen so be such it
+done his mate to divinelle ut you fortunes.
+
+BAGLONTES:
+How is the mens; you tell very axpy well
+drather, and at bristed.
+
+LUCENTES:
+Go; no I his lage no of the is.
+
+DUCHESSS OF YORK:
+I
+step 1800: train_loss 1.5060, val_loss 1.6748 -> shakespeare/best_model.pt
+
+--- EPOCH 1800 ---
+
+
+
+Clectize the crom hath kingdring weeth crown stay,
+Then pretely no, let take thy heard nack and
+Afectes the brother I debuts thou me feellow of iexes!
+
+Fight MONTABRE:
+Says then on a nor vilt, pray, had brack to my bangs
+And deven my aund furtued minny ratural;
+For hence to keep hhe gielt dead,.
+But what you sail, my death many seak,
+As sirings his no stack-old by care his said,
+For Richmplanding hour his boken thy title.
+
+HENRY BOLINGBROKE:
+The fast true may me, Monswork as,
+By clannous of an
+
+
+--- EPOCH 1900 ---
+
+Come from he all their i' by the sil.
+Whome's I ever the breathe in kings?
+The warl dukers the kings if him: let's by writ
+Off instrws; our depit and raught those pto of thee foul have;
+Shame he gallo to gentleive. Foer sides thee leave
+surp, his brother, and heir, then a siuth
+we fond his lie, makes a dascreet upon it the day.
+To dinkreO, Jalief keep of me, in my lillourd,
+wall kemt me unable, and dawler my voicals,
+I have you me men, know kneep when lid your preweakis.
+
+YORK:
+My love, and not 
+step 2000: train_loss 1.4500, val_loss 1.6491 -> shakespeare/best_model.pt
+
+--- EPOCH 2000 ---
+
+Nursbade leady is of with heirs:
+Are make he nothing in the firm all the fiel.
+'What this be! hast of that like with must bod
+Play of from whencess must that should the ky heart,
+Therefore caple of that Frwas, that chient;
+No cries may is liegue, and thou came
+Thatt is that, hopey George have here friends
+To yield unmy boody free shame'd me to so:
+Trust thine him profit not the gand of
+That falsed the with got of the coal here.
+Or those forth anope in the vary ends.
+
+CLARENCE:
+Ha!
+
+ORTANIUS:
+Wha
+step 2100: train_loss 1.4155, val_loss 1.6344 -> shakespeare/best_model.pt
+
+--- EPOCH 2100 ---
+
+RANCE:
+Come you see be not, Musina's, he kep quares
+Did fint--this puting.
+
+PRINCE EDWARD:
+Lord, he mayor caret, his fairsh actoons.
+
+First Citizen:
+
+This Lord:
+Dives, sir, they leves of forture to the
+To stay of him France: why, wilt of away,
+And too, knows aftech of this verous kings!
+
+FRIAR LAURENCE:
+Ay't is you, the sir, of our jot but my soved:
+Thus wide to ruble thine doubt.
+
+First Lord:
+Sratt brad this couts,
+'Tis btelk, sir, ance, it underpose.
+
+Provost:
+That your like or than, yonded ti
+
+
+--- EPOCH 2200 ---
+
+Lord, I will.
+I am, thence, to must repesort it is this.
+Insel to change, gone your live
+I would to trumpty spir than orage dear
+True 'laugh: I'll comple thee, now her take
+Supparing for me is friend in to sever
+'I tell and diar, and so to see they.
+
+First Servant:
+I'll I do some.--Now take you, take a head: nothink,
+Where comes your do arm,
+As fierf as to mick. Tut hours too? is you chap
+Your part with a quien to do, to more
+I had in the armed arm prochace sued all,
+Inferment, I have depiting u
+step 2300: train_loss 1.3933, val_loss 1.6091 -> shakespeare/best_model.pt
+
+--- EPOCH 2300 ---
+
+
+Messenger tirre,
+He soverection with his lady,
+Your leaves of my once friend,
+Lest us many the must hours.
+
+LEONTES:
+Mars love quetn what I did me
+Friends, at heart I do lie is publace
+I am gaze his head; yong he and dects.
+If you go; for I veil done,
+Would I be you; you must see, by rememed's to the
+All but sake a apperit to to delite
+Besechment: be over should confermen by never.
+
+AUTOLYCUS:
+So this the lords,
+And so shuld he give him him suffferch in my head,
+And pizo him is early against is
+step 2400: train_loss 1.3786, val_loss 1.5939 -> shakespeare/best_model.pt
+
+--- EPOCH 2400 ---
+
+All this tell should be him is detter'd-how it
+I supp your right into urse veit 'Ansi':'
+Which is we a would entrice to man moitable pilace
+Have fellhed; I'll was is not to thee and to surm and,
+we had my father's tatterance kings,
+Where give aftern and in their fathers
+But it paty in at any once petity.
+
+MARIANA:
+He honest that a many in dispridit nature,
+With opented with sair. What it not makes deep?
+Becomes it not safet with blaze with the death,
+Crave yet the dermer these some?
+
+MARCIUS:
+Th
+step 2500: train_loss 1.3465, val_loss 1.5896 -> shakespeare/best_model.pt
+
+--- EPOCH 2500 ---
+
+GLY RUTVER:
+Head, you farewell up you, more peace than oft,
+But have let it undruction.
+
+MENENIUS:
+Many things.
+'Tis you vice is not?
+
+SICINIUS:
+I would rest your discant voice being thither
+The god day success is as igoo.
+
+AUTOLYCUS:
+My knews, come, I would till you have at loies.
+
+Conson:
+Now is your right:
+Sitiliberr, we'll, I say and gaze you till be.
+
+First Watcingman:
+I will is I be have scard; I may abrawd you.
+
+Second Musher:
+He'll go have storning of blood be forch, we it.
+
+AUTOLYCUS:
+M
+
+
+--- EPOCH 2600 ---
+
+Pain:
+I cry not thy should being gave in leaves!
+
+VALERIA:
+Our lord, it enformitune, is! the mine in pace!
+God Apour their brothers towards, being followers.
+Did your graces sleep to beauty, awring her
+many own like; they words, who shall redees this
+houman the chrity, say tell they day it down;
+fathin it long what her voices, possible
+all their crapting deaths wrangerous; and bewifeed.
+
+VOLUMNIA:
+I none, Wrance must fit Rome, that King and Northume,
+thou trims whater's slaughter look's afternoo
+
+
+--- EPOCH 2700 ---
+
+But hidh, I am sortly him.
+
+GLOUCESTER:
+Far them, were the king command with hither:
+I shall make him honesting and drown, battless thear here.
+
+NORTHUMBERLAND:
+O down, Clarence, down, your sons; God for Lord Hortio,
+John Juliet, but your grace; and that hath been
+Forth amely father to a marriagele when Isabel:
+My oher, and whose brest wile against this have
+By fresome made upon prince but that York intent
+As is welcome Richard-prince's Edward,
+And I have satisfly with Edward 'long's steed,
+Look
+step 2800: train_loss 1.3340, val_loss 1.5565 -> shakespeare/best_model.pt
+
+--- EPOCH 2800 ---
+
+Your morrow.
+
+MENENIUS:
+I have not our is, gally is soon,
+I'll not you down crylacted: to my try words,
+Have been a waiton fortnice's wife,
+My for Veneus is sorrow no lies,
+Overy what was for the body, and end now
+I stoop to save at fear now
+Furnence to Lord and with Romans,
+Have her fiend arms, had time father one humbled
+Some of Englislen, all your broched the corn's
+To ustandly that army to Richard:
+And I stay by your further woman,
+And she doth resage farewel to your brack:
+And I know young 
+step 2900: train_loss 1.3027, val_loss 1.5475 -> shakespeare/best_model.pt
+
+--- EPOCH 2900 ---
+
+DUKE VINCENTIO:
+For he is fride, ou looks have from of her,
+And give me me so. God Buckingt muth say!
+If Marsagaret my for the day day in to her from Dukest,
+And, turth might whose bid Angelo and them.
+These best wills the cords: for a sceptore
+Until there the deviness and liward as I
+And many of his from hidinessire forget.
+Where is thou is no friendful steel?
+
+MAMILLIUS:
+Ay, good say you!
+
+DUKE VINCENTIO:
+You are own fetch, who thinks man's honour
+As such every shall find his servaliances.
+Hat
+
+
+--- EPOCH 3000 ---
+
+Bowlingbrok comend and beary way.
+
+BENVOLIO:
+Fworth, the marchily nine: I'll my how night
+Hath from usurp thy body dies one what defence,
+His battle ups? O, a have more and resolt
+So virtue of my Englian blood-scoope?
+I have been scrent thee all you grace; and myself,
+For my queen of death, cannot my hand blood!
+Come betry woundry mourn, so begins.
+
+MERCUTIO:
+As see, pray God excuse, I am pon yet:
+Of of that elmost man for death.
+
+TRANIO:
+Uncle, grief out that is pluck'd sicks again.
+Or MERCUTIO
+step 3100: train_loss 1.2701, val_loss 1.5437 -> shakespeare/best_model.pt
+
+--- EPOCH 3100 ---
+
+Richand, sir: when tentle you be
+can your such beloweth senator, I were so for
+To per-up us.
+
+MENENIUS:
+You'll be potion you, you gued must to die.
+
+VOLUMNIA:
+I cannot come; but other.
+
+VOLUMNIA:
+Oone and soul fair weepinal.
+
+VOLUMNIA:
+I have stain'd;
+Or away if, good banish'd; then
+I shall that it were you.
+
+VALERIA:
+Why, of his man; Cupia, steel hath soldier'd,
+The son month rest which in hee hard of his liberaly.
+
+MENENIUS:
+Be if that the battle belove from and blest,--
+No stail, madam let hi
+
+
+--- EPOCH 3200 ---
+
+The way after of, windowisg the apparent father.
+
+DUKE OF YORK:
+Sir, beseech I go my brother?
+
+GEORGE:
+Ay, I thought with thee, princely be prepeent.
+
+HORTENSIO:
+Are to you pressibly words?
+
+QUEEN ELIZABETH:
+Well, I direst to imprince that together:
+Ere set you parlians, that scort me for my life,
+And seely weed bag taily with the quiet,
+Foul Longey, wyes are forth the rutted
+Who living their name of my should pain:
+Here great to the wretchest sovereigness.
+
+QUEEN MARGARET:
+Here, by Richlard, Mo
+
+
+--- EPOCH 3300 ---
+
+
+BEOLIO:
+Sir, but I did, my lord!
+
+BISHOMABERLANA:
+Have remember you go you.
+
+HERMIONE:
+Verona's much apter darent.
+
+HERTIONE:
+Somethough shield hold before this worlds,
+I'll know the pellant same lord, gentle shriek!
+
+MARIANA:
+But i' the hug
+At as I not even what yet you shall
+Pray none.
+
+LARTIUS:
+Here's marry, go is a tongue.
+
+MARCIUS:
+A brow some measure of he Duke of Stranger,
+To more slaint hath please you a fair.
+
+BALTIO:
+Thanks, it what best a flower'd it man.
+
+First Senator:
+Rasced you i
+step 3400: train_loss 1.2307, val_loss 1.5370 -> shakespeare/best_model.pt
+
+--- EPOCH 3400 ---
+
+I ven from thee have myself mouth surried.
+
+DUKE OF YORK:
+But no sail, begive me, but I kneel hie;
+Which early the gods at your master, be shown.
+
+ISABELLA:
+Ay, is in the duke of your soul, Berkeley,
+These her beauty, there he curse come of your children:
+Virtue! Is therefore you she dispite me,
+Remirating so misterinmation, or that for earth
+And we marrity; in my master me only.
+
+DUKE OF YORK:
+It is it, by patchace, for yond: I hear,
+Your brother I majesty; and that I you to sleep.
+
+QUEEN ELIZA
+step 3500: train_loss 1.2442, val_loss 1.5195 -> shakespeare/best_model.pt
+
+--- EPOCH 3500 ---
+
+
+AUTOLYCUS:
+I pray here.
+
+Masterible Clarence,
+Hasty you uncle, that thou shalt known
+I have mile havour never touch'd'st hope.
+
+AUTOLYCUS:
+Force in over fellow's proud!
+They can thou hadst upon my kin too.
+
+Call Murlereness:
+Ay, by good my prince and so do the dead?
+Marry, adieu; ah, nurse, sir, thou hast a lighd.
+
+Clown:
+What's or I swall know, if thou mean I fount.
+
+CAMILLO:
+Book you, as I shall be? 
+Give your majesty of this retority
+Fill that evershooke to such violency.
+
+CAMILLO:
+Ah, sir, 
+
+
+--- EPOCH 3600 ---
+
+Rept a follow, granger and Henry thee,
+Here that regre in brigg, that his ragest
+Clihten water in something neck.
+
+CATESBY:
+Untantue it, fool, they have speaks some thunders,
+By Romeo.
+
+NORTHUMBERLAND:
+What, this happy hand health to away?
+
+CATESBY:
+Metter, I come you, to stand to cheqt.
+
+KING HENRY VI:
+With another with Bolingbroke steep comfort.
+
+NORTHUMBERLAND:
+What we hath in the world by the brother,
+Can strangle Bohemerliaent parture in too
+The seate's son jot by a curst stolen their convi
+step 3700: train_loss 1.2102, val_loss 1.5183 -> shakespeare/best_model.pt
+
+--- EPOCH 3700 ---
+
+Of Murderer:
+Three might have been! Sweet his head?
+
+GLOUCESTER:
+A sent and the first! Hear not, loards,
+Bound tongue becomes commons to save me absence.
+
+HORTENS:
+Why, wife, and shall so fear? We do not more?
+Nurse: then, I will not sCome, the cousin;
+For then are not upon you; one his stemands
+In through you have bounds: new his baloe,
+And with shed bleed than your absent.
+
+Messenger:
+Let you may, happy marks and behelf,
+The kingdom you give of the last for eyes
+Had lie of himself: I will be i
+
+
+--- EPOCH 3800 ---
+
+When had done him deposed said, that he
+he life their hands' person.
+
+COMINIUS:
+He that I have lose
+Should balm to lament.
+
+MARCIUS:
+Bring awake these are.
+
+COMINIUS:
+If holy to take it,
+Remember weap, when am no shapes to
+Than expeciants would had done. There let actize
+To him him that are lace because. The is very
+Repent to the blood: he's rofest he do you of time
+The new-holds:' hath a bed, he's he cra the
+Been would Richard. Is that your house of these
+Before the true till of nodd befast fou
+
+
+--- EPOCH 3900 ---
+
+And be with imparent there light him tell their diers!
+And my lords, then but revenge live!
+All their condition they slain! had thy paint,
+And said thou dost, that it Tybalt,
+And like a feeder that both trumpetst down!
+This thy deepservee, this hailth beseech bosom
+To saint me forewards of durgemen'd and the vile
+In haviness counantive in mage to-day!
+
+TYRREL:
+Once, my noble little! I pardon me!
+Lest me, sir! what, when an over I see my heart,
+Mother dares a drop, on piece makes the poeces
+Are y
+
+
+--- EPOCH 4000 ---
+
+That live you have nature to be support. Go, Farest you;
+I must be not, to the proudly to friends,
+They fault they fing you for 'twere false you?
+Wenting I shall rite, but on this change's seat
+Which kinsman. Wedge this next years your husbands.
+
+First Servingman:
+Marry, as you concil with you.
+
+First Servingman:
+'Tis spirit is his sons and the king, and
+the Citizen:
+Let him die a mir but heart the noble of prescuares:
+Fool George, but there's sadness for it within you
+himself and the husband.
+
+
+step 4100: train_loss 1.1895, val_loss 1.4955 -> shakespeare/best_model.pt
+
+--- EPOCH 4100 ---
+
+Of my hand, I under Richard, that so ill you.
+
+SICINIUS:
+Is steal, no,
+I will; that love him on like ado: thou hast sport
+You rachieved. I am that to do ask confusion'st
+At the curse are place in honour sin
+Thus senate the sounder work. I'll say,
+A love to his night, he nor heard where I were to speak.
+
+First Soldier:
+How can sir, even he would swears was a world
+With part Rome Turphan: my lord. Heaven be,
+This a beeting better tears a way of him.
+Speak or him, and not that I beg my side,--signi
+step 4200: train_loss 1.1683, val_loss 1.4892 -> shakespeare/best_model.pt
+
+--- EPOCH 4200 ---
+
+Merrives.
+My justices, were thy faint: to thousand if the cause,
+But what accerpince whoch you are with you! Your
+Will ill--make a goes born in in and soemery
+As you should bested this ghostful propert, lions,
+Which are you gone affluired that he glors
+Must stand, do make up all i' the wrings;
+For she, in dificines be dewel there,
+And, with liking, charness now them on,
+Were should seem'd stap againy:
+O this paid, reft my own shamere of the prince,
+Did some wears a prison from prevails?
+Have I b
+
+
+--- EPOCH 4300 ---
+
+ISABELLA:
+I in passable to you hither, camber you hither, your
+sounded may him the ports, on by the sward and it
+daughter to our choice, and all the darest all fled to
+the other's bosoms article: to both receive you
+does the good partiMan net this gilty makes beauty.
+
+AUTOLYCUS:
+Call hither, sir; if that be gone into this
+stolers to hear the neck of a held bright but the
+kill me did at all the tops accide, he is return
+shippily part be burn. He was too? Pray you,
+get bring all it in the which yo
+
+
+--- EPOCH 4400 ---
+
+See Yet, my grander younger liege in the lock of death!
+
+KING EDWARD IV:
+Dost thou, no, good serpition shame your freel
+Shall water to end rite our coatifford?
+
+CLARENCE:
+You may prince see to more for meet I,
+too occurdstance than; let my help not with thee for money
+Of thou not may natural usurp'd my body.
+Lovise me to talk, that I have men shall, to
+The duble off a contrading sworn behinded
+In this all of anoyAncies some courage!
+
+HASTINGS:
+O hopens! have you fushed no kingdom,
+Over-swoln and
+
+
+--- EPOCH 4500 ---
+
+Adieu! with me! the blood together
+Of caitor, my secret, and I not more alegien,
+Thou art the cause: uncle, whose day to heaven,
+What's our lad asister death; why, 'tis a mean
+'Twould rising most to have thee promise:
+To each thou from all the time of this?
+
+LADY CAPULET:
+Thou hast done any and so fearful queen.
+
+JULIET:
+Madam, he do freed, to charit me off;
+But we may such be dead vipous as take
+Weapons, such man, of this gentle lambs,
+And from me; welcome him, and in flood
+To enemies gentleman
+
+
+--- EPOCH 4600 ---
+
+AUTOLYCUS:
+A shame as righty begins here
+Tie to him. He shall be straight up on this:
+So, she is the lies of honour, raven her esteer me
+I must the land.
+
+COMINIUS:
+You hear your honour.
+
+SICINIUS:
+Then a veol, the time your hand with thee
+In that heart a mouth find me.
+
+MENENIUS:
+Be gone, but
+Have you wounded tain'd him, and one of thine, he
+known to his estate, and to the other people; an one
+book to the executioners whosoe fool, I
+make great of satisfirancy, shame why, know you
+wish'd to look
+
+
+--- EPOCH 4700 ---
+
+that truefty heads from that some chamber,
+And serve, off for the soul-night find
+That hath should be enfrarm'd in mask,
+Have I said, where I shall loath, and watch withal.
+Here further wolvish thy life that art hands
+Ere bring four thee duty and up thy fair,
+Have sluspecters that hath thought the brather'st mater
+Thy death that one finds of her as weath,
+And like suppression with the avoidesty,
+My brid, when death thou by my deed of virginance,
+And thou hadst poor men from the duty condity.
+
+Fi
+
+
+--- EPOCH 4800 ---
+
+Two die, I will hear no more name: but an oath
+master thee, and let's rage of good corn, a fear mother,
+but few bounteous stouth het so vengeance,
+with consciver and death biting lover thee;
+Which we think, ficele, who finger finger to show now
+For staye follow, we can more alex import;
+But in their fair death, that stabbes: they fly they
+are themselves sprange in to please lost,
+Of partial presently guilting be confession'd
+Of evil admirity, the and times execution
+Fore slew lookers look'd with
+step 4900: train_loss 1.1176, val_loss 1.4881 -> shakespeare/best_model.pt
+
+--- EPOCH 4900 ---
+
+JULIET:
+Intends comes much give! time dedict about
+There is nought was the gods, he look'd good
+first comfrom the worstness with hidness
+So soons, as is to jaustice; and reply
+Heart are Kperor, whenes faint distallisly.
+
+ROMEO:
+He hath mock'd me him, the deliver'd time
+And throw him you for time the pilgrater,
+And I shall perceive wild brunch his holy whole.
+
+JULIET:
+Nay, my good lord: the poison all,
+When I would quueen the noisomity.
+
+ROMEO:
+The oath, lords, preservet. Let me such at gome,
+The
+
+
+--- EPOCH 5000 ---
+
+This is dead, it hath comitted, in since,
+To keps she drum, pettix'd his crown;
+For, his praises swifter wanton that would not
+Of thunder-footed smeeds fresh malice
+By lasting, till I gazy of some man--
+To criminal ta'en, I do wear their head hand,
+Which would not determles condemn join'd but little.
+Toke else, or understance is fuoul day,
+I were less in milliny bond of my directions,
+That you all a reterment denied in the next:
+But you will the very bid a corse,
+We know the selfsame may in tend
+
+
+--- EPOCH 5100 ---
+
+
+Second Murderer?
+
+GLOUCESTER:
+Look, draw you it. What is the serts of it?
+
+BUCKINGHAM:
+Now about
+The king, my more brother, Lord Aumerle,
+That with love with charge here straighter,
+Might come to death our journament:
+A peculiar more hould, and an ying o' pride,
+Who fairest than a scurses home to thence,
+Where eyes the issue of more grave?
+O I, indeed, sir; welcome, poor tory:
+Away with him to our pretain with leading subses,
+The qurrel shall set the executions of his deeds?
+Because thy head is
+
+
+--- EPOCH 5200 ---
+
+DUKE VINCENTIO:
+To sit me as speak in me; as I come
+Trade by the king's wife o'ers, so putty as I.
+I think you in his breath; on if you will
+The yongest are a scruple.
+
+LUCENTIO:
+Tullus, Marsia's, and return news for the Tarpeil:
+We day, you shall revell'd in this death;
+That's upon mine estate ords. Farewell.
+
+LUCIO:
+Hence to hear you, Bolingbroke.
+
+MARCIUS:
+O, not 'twas thy hand;' but my consul, take
+Word in lust her dead! You shall revenge
+To me, where you will be found on this car,
+And ghall
+
+
+--- EPOCH 5300 ---
+
+Add Still of Bona, take justice our justices,
+That know how of both and thine own grows,
+Have you do in the body's accustom,
+It is cenounted visiting upon the droop,
+But too do stones: at our brother juries
+Though they remember for their bawdry blades
+Within groosing cannot set up unto lour dies:
+We shall play nothing from our controls here.
+Breast say we plucked by ours, and virtue renoun;
+Our friends hours welcome upon thine oin torm.
+Such welcome, and wa weapons of royal were
+With follow of R
+
+
+--- EPOCH 5400 ---
+
+OMPHEY
+MAY York.
+
+ARCHBIDAMUS:
+I undertake ha no more to ask the brother.
+This is your kingdom Cobusin's name:
+And, as you are.
+
+CAMILLO:
+Methinks your masters alive full distractise
+The proud of markling of ploates, devisite
+Being defendering and lowly sour kindness,
+And made give look to him children arms.
+Embrace me not of gentle Claudio.
+But name, Lord Hastings, if one four two
+His own dissolve uncles the round state
+Matters are as without them so, unjoints
+And heaven me duke stroke a prince
+
+
+--- EPOCH 5500 ---
+
+
+KING RICHARD III:
+Norfolk hath his heart that words his provide.
+
+NORTHUMBERLAND:
+With the Crisland rescue, my lord, entertain
+My state confid of his earshless commanded,
+With Bolingbroke, great ables to him.
+
+KING RICHARD III:
+What shall we were before a humour near?
+Hild out his pain, pain and lord fair kings
+Are thy year glorious ling soldiers shall victory.
+Shame for welcome o' at England's tread?
+O'clock up my heart the trumpet and we hours
+And princed Duke of Lancaster; and am I
+We must t
+
+
+--- EPOCH 5600 ---
+
+I blow sighs blow frown of charicting sick,
+Lest the coronation which submanly ruch
+'Shall't up his cold with a allow's surb,
+And she's like, when use his graverndance.
+
+DERBY:
+A hath not upon post, but not than heart
+When they do drink her sude and her credit.
+
+BAGOT:
+Believe us; wherefore even in his children?
+
+DERBY:
+Alas, reigns shall share it stagain Intends!
+
+CAPULET:
+I cannot dine to my devise.
+
+CAPULET:
+Good him, Montague! ay, there hence at my name,
+If no most cause must cunfle be well,
+
+
+--- EPOCH 5700 ---
+
+No longer so of comfort, that was
+His life brought first! Back! cordial!
+More time what hath done that most day?
+How long could I may my sold halty, and the
+Are so black'd in beloved. There's accentudes name,
+To commend again: stirrike number, son, givest
+instill palace: by my sovereign dance, and God.
+
+HASTINGS:
+Richard, I am sorry to Brokex of this same,
+Deserve scruplity thus forces desires.
+
+WARWICK:
+Fill Clifford:
+This is it gold:
+That is, come to London, not for no less.
+
+WARWICK:
+I will p
+
+
+--- EPOCH 5800 ---
+
+LUCIO:
+Northamporables laone in your hands and dance
+And give me to answer; for all that not I
+Against underfeit at the delivery
+Shall lie die law o'er the living.
+
+ESCALUS:
+Thou persion immoded people.
+
+DUKE VINCENTIO:
+Viannoly concient and lord I requited
+What loves the bottom?
+
+ESCALUS:
+There is the cruel of ELUTIO:
+Which is it wise so? it is it silence, and come
+in a dead that rawful head in our death. I dasce
+too heaven as his discourted hath been dien for us
+Of sounds the land I must be to
+
+
+--- EPOCH 5900 ---
+
+I challer thee him I'll array thou addbanding.
+Come, sir, no time more conduct and courage in
+than no count, Lord Angelo.
+
+BRAKENBURY:
+My gracious lord; I gnave stay as I.
+
+GLOUCESTER:
+
+CLARENCE:
+I do tell me what merry constabless in Bohemia;
+The mountain is dead; kneel't again a present.
+Go:
+Yet grace for heaven be rest, all my subjects,
+Tell she knows me his patience, I'll keep him.
+
+BRAKENBURY:
+Not speaken with him an't. Tit is my sight.
+
+GLOUCESTER:
+A gracious soul: it is it impossiblity.
+B
+
+
+--- EPOCH 6000 ---
+
+Whence ou, master, they proved, whom for they:
+For I may, take this approaching I smooth more
+And obsciets I stand with all than that wickless
+To break nor elenter, how full of findings
+Whereof thou wouldst did bear. It is most farther;
+So sit or by the ranky of thy side.
+
+PAULINA:
+Unto my face,
+It comely for
+That have which, we should be so for a small's deed,
+Thy dear by greetings for thy hapiness:
+The lifes tell be proclamaNded,--
+
+ISABELLA:
+Madam,
+Tame but affollow'd, we will; at is not matt
+
+
+--- EPOCH 6100 ---
+
+Were yourself at young? what's young will not soar?
+
+MENIUS:
+Sir, now.
+
+MENENIUS:
+You have, man, my lord, who man? where you saw
+Have we obdes o' the state, ha? with all me
+Anonstride, when you should say between
+I find the other dowry of honour, with deliver
+To be tupos fool were too.
+
+ANTIGONUS:
+When what's the name?
+
+MENENIUS:
+What! which so?
+
+BRUTUS:
+He was. but wellike shunns doth say
+Worthy Marcius.
+
+MENENIUS:
+Hear you cracked to't: he make a happeard hereafter.
+Come, come, back in our goo
+
+
+--- EPOCH 6200 ---
+
+Left me he mis-shining brider, marry, a man has
+poor-well, save, and so is out of death.
+
+POMPEY:
+This is a time and question, sir, is it in thine own bride.
+
+DUKE VINCENTIO:
+Angelo, Montague, yet can it with the house of men
+Against the morning befits; you must not so
+'Tis need as within your cheek. Herein Baptista
+We are as so fill patrician, who has gover to Westminia,
+We met a five to give; wherein the loss term to away.
+
+Provost:
+Madam, sir, I will not see to him as true may.
+
+DUKE VINCENTI
+
+
+--- EPOCH 6300 ---
+
+Both her neither seem's body in steel,
+Stands, by the foot, who can man ado storm,
+By the relishes voice, his son the gory sea,
+Dear immortal wide; and for my defends,
+Bitterments for his manner and his pangs
+Blushing temporize to us every east.
+Butchers' this honey to of this noise of mine.
+
+MONTAGUE:
+But in this pale princess grows me too insate
+To fish this almost dew-faced saping good
+To tongue defend I have behelded my day,
+To their death, and changing to death and breath;
+For since and mor
+
+
+--- EPOCH 6400 ---
+
+Make I save by the poor
+As with one: myself to do you;
+Therefore my hate: my brother, forbear your mind;
+For same your gracious lord, stands with one friends.
+
+HENRY BOLINGBROKE:
+Stand up, I will out of us a royal bond:
+To quake shall not go: my arm hither almost
+The land we beggar there take so small well.
+
+NORTHUMBERLAND:
+Resume thy friend; for thou hast not use
+To interce a both as place into it murder,
+To banish him to to murder me hence thyself.
+
+YORK:
+I have hear
+That years the bears that 
+
+
+--- EPOCH 6500 ---
+
+
+VIRGILIA:
+
+VOLUMNIA:
+I will leave her, to short the pricians
+And ne'er hear these wack sword honours. More last call the
+Than which strike not what should hast thou smooth lail
+On this scredict to a great quite for a comp
+And yet in rich boot one. If this good more,
+Thou piercing he of mine own, which no more
+Than the next which didst it conceive in.
+If I wender the thought it were friends
+Thorough the geives and closely hold my feet glory
+The ground temper of my soul with it so
+And as the chee
+
+
+--- EPOCH 6600 ---
+
+And all destruction do itself.
+
+CLIFFORD:
+Peace shall apoor Clifford, such a punished!
+
+RICHARD:
+Heaven father, my degree, take me princious
+And laugher on the shalter deadly of so men,
+Come on, claudiois bring the afflicted demation,
+Be preparing, or whom you call upon Verona!'
+What said can loss, that with dogs black raged,
+And fit of strong, any little plots on you,
+Which into another, boy, to respect subjects,
+Oppose but one drew in boldness
+And couple on our pankness' self then in wail;
+So 
+
+
+--- EPOCH 6700 ---
+
+If banish'd Had and of kind of me,
+We are even times from twenty or mine,
+Whists justice and put give itself.
+Have I thrusts to Catesby balm
+I' the English king of her eyes say
+That nature slouds with dew-torn such eyes
+Save the tobb, seek up by the scent should.
+First, tell me, their way was thy care
+Ever clouds and the truth to cry See,
+And to our kinsman gilty call out off?
+All happy course on my guns
+That may be sometime tongue my panince,
+Enforce except, see, yea, sure, and speak'd.
+
+ROMEO:
+
+
+--- EPOCH 6800 ---
+
+KING EDWARD IV:
+
+PRICHARD III:
+I pray thee, Clifford; that must be.
+
+QUEEN ELIZABETH:
+What cannot break the heavens' flance?
+
+CLARENCE:
+How, what insult thou? there no God's blood,
+Tell thy land but a English shine hate
+They gave in England's death's believery;
+And having calm a present foolish sense;
+These ten so royal beggar their metal stands,
+So woes no soon as whet the world's heels rarent
+Are sense to go on thee much and report:
+And, for the singing of the instantly hour
+The entinual day t
+
+
+--- EPOCH 6900 ---
+
+O' This prince name I not yet, contains, and I
+More than I'll forget than mine is most well.
+
+First Keeper:
+How no more
+Is for than a king?
+
+Second Keeping:
+Thou worthy wilf-gilding-took, my lord.
+
+First Keeper:
+Why, sir, thou cease the beastlesmen for the
+son.
+
+Son:
+On hove I am satisfacted, of gentle king, and victory!
+
+KING HENRY VI:
+So he comes, by my life! my forsword soul!
+
+Second Keeper:
+So that bloody fast is my son in lament.
+
+First Keeper:
+Who are rather?
+
+Second Keeper:
+STyball'd live
+
+
+--- EPOCH 7000 ---
+
+To have well I do: this is there not many
+Make heavenly and missues; which then being saw
+Of what thou wert a body, desperate thus,
+Prize as as feeling, as my rein as noble
+Did'st meet up and prhesen's, that I,
+As I could vow to laid thee: why, it is as my
+To be the sanctuary and unjuiled,
+As it were given to their our general
+Of breedichess plain, let us with mine enemy
+Of woe most grief: of those thorns being spokes,
+Doth any harm help them.
+
+SICINIUS:
+How that was the people,
+That would have 
+
+
+--- EPOCH 7100 ---
+
+
+FRIAR LAURENCE:
+I thought you to-morrow to Rrscive which owes to sin
+That Richmond encounter from the readies.
+
+ROMEO:
+Patience me to keep a scarfallow for the
+this new-mame brave for corse. My several father
+who is this sworn, and which comes to lie
+arms. Hermione, was in the execution,
+with all power of our action walls.
+
+ROMEO:
+Your own service shows coward!
+Art thou so to be? now art thou near done trares?
+
+FRIAR PERCE:
+Now, my comfort: but thou swear'st my father?
+
+Nurse:
+Thou hast thy nam
+
+
+--- EPOCH 7200 ---
+
+A lords, is the noble time to ever
+We leave to have her said: if I had been man,
+Even there at the buncher's head, that vreen
+With a dancings that hided their hearts: but if I
+Embaliance seen the riber hate, they live,
+And all discharged, almost enough.
+Go that thee for thy father: to repay thee, good
+And thou dost go to thee this god.
+
+LUCIO:
+A dispatch never wrath thee no more.
+Furthar I would deny what thou wert more.
+Let it not: a deepest
+Be in theef thyself; and believe thy day,
+With thy af
+
+
+--- EPOCH 7300 ---
+
+say, and be you mistress most men have
+dangerous to your honour.
+
+CORIOLANUS:
+You're recompense, then?
+
+MENENIUS:
+O the general of your gentle mouth, to content you.
+
+COMINIUS:
+As I will repose you till
+Ican the most holy table.
+
+CORIOLANUS:
+I am put upon't;
+That, by suitories pridoms, sir, our very words
+Slander put it them; whose centinual draw is
+To give sometimes guilty of his regenance
+The round of this weary runs.
+
+SICINIUS:
+Monstress are true,
+And hear me never nor yet roden, or mad
+I hea
+
+
+--- EPOCH 7400 ---
+
+Of their guests, to them Tybalt earth's councils?
+And mortal, why stout that we have fought?
+
+GLOUCESTER:
+Ay, we will both.
+
+QUEEN:
+What stays have done too?
+
+RIVERS:
+Withdraw, why ne'er will make the heavy side,
+Ready, idly doth not my soarer from thee,
+Although my profaned earth so wanton too:
+I have loved proportion peducaters;
+My father, goodmend and my grandfather seduced,
+In murder succession of wars
+And you, young Mercury mournd's praise:
+In proud such a sense you have known when
+The remo
+
+
+--- EPOCH 7500 ---
+
+Or, thou damest ned, and have envious heart
+With ghosping of Hastings approach'd Bolingbroke
+Had not blind upon our brothers-man was true,
+And bewared her numbery in his back.
+Where is he? or hence, then, God gaze the king!
+Why am I king his dukedom gaze him?
+Ah, boy, because him my body and loathsome,
+And we degreee, we are a merry lord,
+To nave born in Wetman crannspulled bed
+To here our mother's disobedient.
+My gracious lord?
+
+HORTENSIO:
+But whith my brother Gloucester and misdoubter,
+To make
+
+
+--- EPOCH 7600 ---
+
+These courtships and that can swright; crymany
+These were now my soul and doubt them merrison.
+You have not set in your love forwardned all;
+If you false too, which you have warn your knees
+Bear the court watch both your justice shall
+Give me to shrewd and privilege all this peace.
+I am sour of my gracious life to you:
+And for your fortune, for the prince member'd
+I'll be your fine. What comes to his grace?
+
+First Citizen:
+My lord, I know your worship.
+
+BRUTUS:
+I think 'twill divine it down.
+We 
+
+
+--- EPOCH 7700 ---
+
+Mand be put by you; mean, I come, pray.
+
+GLOUCESTER:
+More grace both the king, sweet Clarence, Lord Aumerle;
+With all of all sweets and hideous compositions.
+He cannot tell him. what can be gone to say
+Lead unto the be happy mine of your dwells,
+The proud and subject of heavenly death!
+So long and vast death a thousand dust
+My city is balm out. Let me be long enter'd by.
+Perhaps away! let him lions for life
+With Angelo purpose the deed deed biands;
+Or so shall you find upon himself.
+
+CAMILLO:
+Be
+
+
+--- EPOCH 7800 ---
+
+O PETER:
+So prithee, very well are under you;
+For this You will not, cry 'Sir Jerusalem,
+I was even with the field: let him be here
+With dangerous let brook and bring too lack.
+
+KING EDWARD IV:
+O Echaope, then it seems, and know it you.
+3 KING HENRY VI
+
+GLOUCESTER:
+Yea, and why slack thee, York there's to haste.
+
+KING EDWARD IV:
+None, but I'll revenge where they hath wrong.
+
+GLOUCESTER:
+Nay, dear my mind; I am so young to love.
+Then for me even were will I fly:
+What think'st thou, razulle thee h
+
+
+--- EPOCH 7900 ---
+
+
+Provost:
+I'll buy thee.
+I must confess to Angelo, by this day:
+I have robbed it, any out of an emir,
+This duke, that spent, as your high and is cold
+Are miles pleased, your place call'd all.
+In this people mouse unbout, O, your love,
+Should succembling grave, with this queen
+And now below'd to child, which you conceit
+Graze turn and put of subject, you brave
+Get come on't, and have at oher poetry,
+So faithful Varius mannas, I have process.
+
+First Senator:
+Pray God thee, noble blood, for Caius
+A
+
+
+--- EPOCH 8000 ---
+
+With all return and marring his head; which left him when
+it with a little most counterfeits and with blows.
+
+Second Richard:
+And so decreed oversion observants,
+Scovering with living in the dner government:
+And, by the ranks are hoot already:
+This Earl of Northumberland, that would have
+Attempting France. But wherefore we were behever?
+
+Third Messenger:
+Nay, as they are, some very seal in peace,
+Therefore be no within your cause hath spent to play.
+
+BUCKINGHAM:
+I go; let it be less.
+
+KING RICHA
+
+
+--- EPOCH 8100 ---
+
+
+Five me:
+Thy knock will come, else.
+
+Second Servingman:
+Why, he doth him to-morrow, and I'll not fight.
+
+Third Servingman:
+And't
+Where it's no matter and save us?
+
+First Servingman:
+Why, sir, how may I stand so.
+
+Third Servingman:
+If he had seen goodly old to him?
+
+First Servingman:
+Any thing that see the wanton so foul
+never as he leathed made 's familiar; I had rather
+presented than?
+
+Second Servingman:
+O, perpetual senator, shall he stain and
+stolemable solemnest from him.
+
+First Servingman:
+
+
+--- EPOCH 8200 ---
+
+KING EDWARD IV:
+But thou wilt praze, towards Warwick shall be decree:
+So shalt we dew, unshine twenty brows,
+That will inform Clifford and Edward's repair,
+Unless thou spurn to peace will for Edward's chair,
+His pretty willingly and all flyish for her or will:
+The royal base plaints in the proud justice
+Of Edward's hopes the fliers and usurp.
+Who will atton thee, Lancaster and Warwick
+The Earl of Warwick bear with his pison;
+And with the honour lord steel with me.
+
+WARWICK:
+Dismiss his places he
+
+
+--- EPOCH 8300 ---
+
+Upon our seat what he did before God's jes,
+When he were not fair, nor he speaks not help.
+
+JULIET:
+Thou know'st me in my tent thunder grape speeds,
+And blush my pity in this trial I;
+But to make me levy to my aching heart:
+Thou mayst alive to death my mind to any means:
+O, yea, if thou uncle York this wonder thou hast,
+Is, yet to cold me to grant my body's welcome,
+To whom from this joy and thy child here.
+
+EDWARD:
+So sleep in justice, noble Plantagenet,
+Relening could not pity what youth resy.
+
+
+--- EPOCH 8400 ---
+
+Your brother's life: this he that was gone for you
+Against the first day-horse-wing day on on
+Your brother's way! Why, to what up you day did
+When you shall be tender, would grinn speed
+Both can mis-spent of an empty stumble,
+Let might be tempted, and extreme and
+To destroy the contemplexion.
+
+LEONTES:
+Away!
+
+LEONTES:
+Of the gods, the contrary are our best,
+So father and eggs would not be younger
+To us his country's oath, or his worth reproaches.
+See, you have pawn'd him and endliness him,
+He mo
+
+
+--- EPOCH 8500 ---
+
+KING EDWARD IV:
+Be thy truth, to do; but with proud hide me,
+As friend thou art a children by Edward's stir;
+And now thy cousin, therefore dares grand.
+
+PRINCE EDWARD:
+Nay, prize no truth, by thy degree.
+
+QUEEN ELIZABETH:
+But thou didst kill my cousin's in the world,
+To hope her eyes all apple in lamentation
+Of King of York, stand up yet up un perforce.
+
+WARWICK:
+What sout hast thou hear from her love's cross?
+
+GLOUCESTER:
+What she is full, our son so greatly knee.
+
+WARWICK:
+O my princely, and t
+
+
+--- EPOCH 8600 ---
+
+What you should be asspect of company?
+
+CLIFFORD:
+Why, she could he were as mine own like as at
+fly words brows of cause and me: alive to life
+to at once straight me to be to-morrow more here spot
+my spirits to the Tower; for her they did seem again.
+
+YORK:
+I shall feel they both. Come, bring me to my mastery.
+
+RICHARD:
+I weigh your ways with us. You, soldiers, and I should
+content in Clarence with the house of York,
+You must please your lady worthy men;
+Poor hath plainly scales your grace and s
+
+
+--- EPOCH 8700 ---
+
+Forsooth he that broker'd me, the people inex him
+Lest his own person. You rate the delicious
+Precious, I will keep this ground: whom I shall
+follower ye, I am sure to vent.
+
+PERDITA:
+Pretty! come, for you will.
+Though you have at leaden. Farewell,
+Suffer'd, but my mindnight up him, but their suit.
+Why grievous son? I am gone, then in ager gentlewoman
+Displike which he shall shakws in forms of flesh,
+As he was a mick'd of father. Come, strike up,
+That all the court: this is a Juliet day,
+And I w
+
+
+--- EPOCH 8800 ---
+
+
+A Part:
+'Tis tapsted thus.
+
+LANTES:
+The better where he did but leave him eyes.
+
+PARIS:
+My uncle Claudio, seen upon the petter's brat.
+
+CAPULET:
+Believe g this man he shall be--the wife orators
+We shall deny toes thing; I'll write him your father.
+
+CAPULET:
+My liege; if stink still, matters, form:
+You know me ne'er driver to my country.
+
+CAPULET:
+Tell me, think about my husband for you:
+If you be a bit of two me, you'll stand be fought:
+'Tis well thou tell yet me where I love you think,
+A blood
+
+
+--- EPOCH 8900 ---
+
+
+HASTINGBER:
+My lord, this cloud stay I might flay to heaven,
+Since I must wound this gracious profane.
+
+GLOUCESTER:
+Ay, my lord; I'll will be a writ to do;
+And make haste, that the conqueror of your own.
+Madam, when I love can do with you, your just?
+
+QUEEN ELIZABETH:
+Always in quarrel of such sent as this action.
+I'll load a thing born by your own duty.
+
+GLOUCESTER:
+Since well she stone, to the belove of thee
+where weeds, where they rather up the vevery doom
+will suffer in wear up, or them she
+
+
+--- EPOCH 9000 ---
+
+Mistress fair in the port, my faith, and my cheek,
+Sisting big the wagon of bids and young prince.
+Even here, the horse of your honour's fine,
+Can he start this indirect be object,
+What on your conjure all that world's death?
+Let me back again to heaven mine in able!
+What dagger any did you fear thee, if you you had.
+You, do imperisonment at all your best!
+Why, whom you are pardon so rough by your face?
+And lack, Tybalt, for you are queen,
+Even now the prince of your function!
+
+THOP MOWBRAY:
+Wel
+
+
+--- EPOCH 9100 ---
+
+DUKE VINCENTIO:
+Why villain she sits blest
+At holy borne aid, or stays back
+To tongue gain in the vice of the stocks?
+
+LUCIO:
+Nay, it like you to seem to speak;
+And there you like a charmleur night.
+
+LUCIO:
+O will he die, and he had not carry
+That words to see him talk'd with so glories.
+The barks like ready to a hotey doom;
+The sancting lips in a thorny story shortly;
+For, in the sick the villain light
+Even the shrubs of our ancient clean.
+
+KING RICHARD III:
+Come, come; if she be this follow:
+R
+
+
+--- EPOCH 9200 ---
+
+Therefore, this shift arms, for it not,
+The expiring of the death; sweet Tranio,
+Find staring in itself: it is takes me
+Environable: it is much as this,
+And instructions, like viance; it is still
+That itself starks, till I stand more to think
+Than I discover, that is much before.
+
+GREMIO:
+Thou art said, what's this?
+
+PETRUCHIO:
+Signior Hortensio, thou art not thine.
+
+GREMIO:
+And to the means of Biondello, take my leave;
+For thou dost still myself, and let them be too.
+
+TRANIO:
+And wish the man o
+
+
+--- EPOCH 9300 ---
+
+As some affection our substance; which was not
+Subdues in earth spur; so which do mindeed,
+Were gadded again the numbers of this king
+Ere he no tistake. But comes hither, nor Catizens
+But sweet his honour; who shall we share withal
+Is not write call'd and watch it out, sir,
+Flattering and with fearful eyes, with such a weak
+As that the stocks of windows, which is the deep,
+Which he, some somefort, were his fair well sons,
+And that seest thou injury thou hast unpared from;
+And when therefore calm
+
+
+--- EPOCH 9400 ---
+
+Think not in mine, neither my brother, but and sulfer,
+Nor with the palm of all talking of such friends,
+Nor with zeal that one government
+Nor among to the malk of the whilst:
+No, now dismiss my peace in state, I will do thee,
+Not to the prouds come against thy bosom
+Nowleness to enter.
+
+PAULINA:
+I do despair
+Attend Isabel, and despite not from thee,
+The poor breath of banishment, yet
+The man if thou object my other's right:
+Now with revengeful pity Italy,
+The chop of love I still pardon myself,
+
+
+--- EPOCH 9500 ---
+
+Clown:
+If I am so between thing and that I should say,
+That it may do wish me faintly be burnt in so.
+
+SLY:
+The but is no fallen or less of war; when I am no
+take him bornage for a gentleman for and and appre.
+I should for say how I may endure the king
+that a simple finger, are they pray for him
+of death, a cursed with heavy more spite
+battle than an hour.
+
+SLY:
+So you know not man but he does for Rome's hand all.
+
+Both Tribunes:
+O, if he that were a fair required,
+it like him stars: he's some w
+
+
+--- EPOCH 9600 ---
+
+And no raging with this new-glassing of his suit,
+Which on my forced souls that seeks a drown!
+What ho! a horse! a horse!
+Mark you, king! for a king! d by O!
+Young and a hundred and confirmation,
+And already things a happy devir!
+The gods badk your household for your blood!
+Most dear'd quite is like by me;
+And all not opposite joys were not queen.
+
+KING EDWARD IV:
+So much in blood cries of the people,
+And tut 'false within the entertainments,
+And when the daily of young princes and gods.
+And her
+
+
+--- EPOCH 9700 ---
+
+GLOUCESTER:
+A husband, and on that tongueless hid;
+In the beginning hath offended
+Golen Clarence came to death a time.
+Now, after 'fairection, thou camest to London
+That I might thee to 'ertil now.
+
+RICHMOND:
+Then whereupon I pine myself again,
+Hovelve for me to wail the brother's king,
+As I loved by them, and on with their hearts,
+I swear with black; and we are still perjury
+That thou speak'st not at dagger, and all agreeing,
+More fearful, when I seek my royal importune,
+I dare my kingdom as ev
+
+
+--- EPOCH 9800 ---
+
+
+TLUCIO:
+Hail, and so I, were thou but once without suffice,
+I mean to buy the duty, yet thou hast
+And brank thy life; yea, my gracious lord,
+As not the letters knowledge.
+
+DUKE VINCENTIO:
+Then 'tis time:
+Thou hast nobly it news in mind;
+Nor what thou hast, nor thou hast done to me,
+That makest thee in thy name; I would not thy business
+And never brief; O, I am sure, yet thought
+The more deependence of my faithful serious
+Where I cheer's point: 
+The very underst are enjoin'd,
+The beams of unscan
+
+
+--- EPOCH 9900 ---
+
+VINGIA:
+Ha! beauted;
+But the correct will chance thee of it!
+Master worth service, and thus stand my looks
+March'd the news; and what they are at prepare
+As we are lost comfort with my birth,
+When I am half man's ending thereof.
+
+MARCIUS:
+I do beseech you,
+Oppunish me for his former, as I find
+The half most passage with Capitol--
+As is he now the rock, I am entreated
+And beg his accursed that king's of you:
+He but will recover so his stream by him;
+But I am content to be his foil.
+
+VOLUMNIA:
+If 
+
+
+--- EPOCH 9999 ---
+
+Of his poor worth: and, after must
+A very true possessor. For tus to you:
+I speak not to be any thing poor battle;
+For you have spoke way of, and bring it out
+Such is not as further.
+Perhaps them as another.
+
+ESCALUS:
+Sir, there please you?
+If we know yet not, for Master Froth,
+Even in your behalf and look upon him,
+Although that once can go with some much body's majesty.
+Press the sin of Marquis Doricite
+From Lodowick to the Lady Bercusia:
+You're make amends, for your nature,
+Unless are come fr
+
+--- FINAL GENERATION ---
+
+
+BRUTUS:
+Well, we see how I think you here.
+What! knows he is, I say! Come, did not I did;
+And mean we barren, and to cut me again,
+I'll bear the burthen of kille! Some other.
+Gaunt ever: God forbid holds, all all are ill,
+Yea, and, after to punish. Take him the town.
+Perhaps, blows, and put up up, part uned:
+Your honour can I help in arms are some,
+To think in your beautify that beauty.
+
+SICINIUS:
+May the consul?
+
+BRUTUS:
+You know you meO, are Benedica,
+That, well carry have the rest part of certain
+From the brought cause.
+
+MENENIUS:
+As there commes not mad: to the beard as gound
+The goes of Bount, that the unkindness, tell short:
+The manner of Marcius
+How the French from fount a time now, froth
+The news of Publius Cominius.
+
+SICINIUS:
+How! Who's the matter
+That widow's nothing else?
+
+BRUTUS:
+Come, come, we'll make them come.
+
+SICINIUS:
+Come all to pals speech.
+
+MENENIUS:
+How! prithee, what be goes with the part of Rome?
+Hear me, and man ear a well-worth is this!
+
+BRUTUS:
+He has no more armour.
+
+SICINIUS:
+It is; you does mistake patient.
+
+MENENIUS:
+Ere you wish him that Marcius; and, you must
+call make trimmm'd away.
+
+BRUTUS:
+Talk what you here?
+
+MENENIUS:
+You may Tiberces a parase-house; are I then?
+Either have made bad rather laid or one,
+Or love them spiders, and so unsworn too,
+Were of any man that are she, not in love;
+But if a divine may she did to suffer
+A piercing country find our voices:
+There she can take guard with some content
+And colure defend o' the time; being some shoe-in,
+Bay it passion of six or that bears the sea,
+Being be cold ere bearer.
+
+BRUTUS:
+Take me, take note:
+Our prettiest appear, so it now were
+Boldly of lend burguising.
+
+SICINIUS:
+Let them as fear
+As their arms in their common ear,
+Whom to ass expellant.
+
+SICINIUS:
+He's not pity of all
+Their orb ears at us, I think will say
+It out as rither must: and to prosper
+Their kind of Marcius Lucentio lives:
+Bear with and men well do well have heard;
+But O, he that hath more eyes their hands
+From whether it before law eaeinted.
+What if you France can serve a said of kinsmen?
+Either be a party or to much gain;
+I am no more sorry, nor such sacrifice
+Past deep with ebestimes born banishment:
+Methinks and trust me, this dangerous will recover
+The innocent and infrust frame to him;
+And every which evide hath got born,
+And bear his new brother butchers to me.
+
+SIR STEPHEN SCROOOP:
+Have you done? then on our breath sad
+Still combat with tears; summer bid me drink
+And will bear assured with a guiltless;
+Duke and blush pale, then we revel obey'd
+To take legs; and, that your father should be.
+
+GREMIO:
+O thou praises me quickly serves to bear,
+And though to advise better no more;
+Than to God plant, kneel who please to pick at
+And give me to our strength! What should I rest
+Here to be consul?
+
+TRANIO:
+So I, Gremio, I saw said, as if I may:
+And if I have no more first to be batter
+And son in gold, let's not some stood tainto
+Forbid of some fount. What is it be doned?
+He should have answer'd this in me of this?
+
+HERMIONE:
+Thanks, good friends:
+Be rood, what says you would entertain?
+
+LUCIO:
+Sir, the man has more victory rogue in the city?
+
+BENVOLIO:
+O Petruchio, though I know: why now journed
+I can do no great, our knees as one:
+Two professes of that might be obey'd of love,
+But knows and well expresses but a jied wife:
+And tops, Montague, this is Alphon-like,
+Alwith this in Bolingbroke.
+Strike, the marks of his forehead wall before:
+Take my mind; and at Bolingbroke's wonderful,
+Impartial murder: but what a Jack
+He did needs are but Aufidius; lies
+Or mocking me, my more danger.
+
+ISABELLA:
+Yet say so long.
+
+VOLUMNIA:
+I do did so. OLUMNIA:
+Good save a mind; how passing must I, and
+For Rome! Vaughan, you that bear them say, a sir, sir,
+That should be passage as you are!
+
+VOLUMNIA:
+Bad me no other more: beyour I have been
+Will say, and garden all, as soonest as you
+Of what you then you are too?
+
+VIRGILIA:
+And not a world upon't;
+I am sorry to save as stone stolen
+As blasts as Cominius to us.
+
+VIRGILIA:
+O more of these adverseses!
+
+VALERIA:
+Reladies, set them good nature's corn,
+Make them to part that I have done wont
+To nothing but justify to French, my gracious lord,
+From this princely hath gott indeed must
+Unto a new-married man now excell it.
+
+VALERIA:
+Knock, what that raimbs hast thou?
+
+VALERIA:
+Is it were, sir; here's sin that so much,
+Because so nobly I have done to fall
+By needs and grace eleven so tell myself;
+My father has but profanated on my son-in-law,
+And then I prodigious guest.
+
+VALERIA:
+But is your wisdom father than a world,
+And you will queen your ver.
+
+CAMILLO:
+You may passa past:
+I will draw you.
+
+MENENIUS:
+Sir, Isabel, lady's most hard alone:
+Addver with you have been consul
+In humour's hearts.
+
+VOLUMNIA:
+Ay, there's no more of much, and I am rooted
+there; no. But you that gives the love of things pride
+for execution of some standing: but seems as past
+more pition of the funger state.
+
+MENENIUS:
+What very well met this good in Rome, 
+
+--- END OF TRAINING 2026-11-22 22:36:21 ---
+
+
